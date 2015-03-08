@@ -1,0 +1,107 @@
+Report for Institution Code ROM, Resource vpfossils
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 25
+Number of records retrieved in searches: 339
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Colombia ; Times: 6
+	Country: France ; Times: 8
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: United States ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-01 ; Times: 1
+	Date: 2015-02-02 ; Times: 4
+	Date: 2015-02-03 ; Times: 6
+	Date: 2015-02-11 ; Times: 1
+	Date: 2015-02-12 ; Times: 4
+	Date: 2015-02-13 ; Times: 4
+	Date: 2015-02-16 ; Times: 2
+	Date: 2015-02-23 ; Times: 1
+	Date: 2015-02-25 ; Times: 1
+	Date: 2015-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:dasypus" ; Times: 3
+	Query: "smilodon gracilis" ; Times: 1
+	Query: "genus:Dasypus" ; Times: 4
+	Query: "panthera" ; Times: 1
+	Query: "dasypus" ; Times: 1
+	Query: "panthera onca" ; Times: 8
+	Query: "Cretaceous institutioncode:ROM (Cretaceous) fossil:1" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "40194 (mammalia)" ; Times: 1
+	Query: "machairodus" ; Times: 2
+	Query: "machairodus (juvenile)" ; Times: 1
+	Query: "Glyptodon" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 326 download events in this period)
+Total number of records downloaded: 21642 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 21270
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-03 ; Times: 2
+	Date: 2015-02-04 ; Times: 1
+	Date: 2015-02-06 ; Times: 1
+	Date: 2015-02-10 ; Times: 2
+	Date: 2015-02-11 ; Times: 3
+	Date: 2015-02-13 ; Times: 1
+	Date: 2015-02-18 ; Times: 1
+	Date: 2015-02-19 ; Times: 1
+	Date: 2015-02-23 ; Times: 1
+	Date: 2015-02-24 ; Times: 6
+	Date: 2015-02-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Tursiops" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "myrmecophaga" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "genus:Grampus" ; Times: 1
+	Query: "genus:orcinus" ; Times: 1
+	Query: "genus:Balaena" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "type:specimen specificepithet:striatus genus:tamias year >= 1970 year <= 2015" ; Times: 1
+	Query: "type:specimen specificepithet:striatus genus:Tamias year >= 1965 year <= 2015" ; Times: 2
+	Query: "CHILE" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Cameroon" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "Carnivora county:"Los Angeles" stateprovince:"California" class:Mammalia" ; Times: 1
+	Query: "country:"Peru"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 25
+Total number of records retrieved from searches: 339
+Number of download events that retrieved data from the resource: 36
+Total number of records downloaded: 36902
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 67
+Total number of records retrieved from searches: 1240
+Number of download events that retrieved data from the resource: 36
+Total number of records downloaded: 36902
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
