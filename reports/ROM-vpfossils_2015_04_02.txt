@@ -1,0 +1,96 @@
+Report for Institution Code ROM, Resource vpfossils
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 20
+Number of records retrieved in searches: 323
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: Germany ; Times: 1
+	Country: United States ; Times: 13
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 2
+	Date: 2015-03-02 ; Times: 3
+	Date: 2015-03-03 ; Times: 4
+	Date: 2015-03-04 ; Times: 1
+	Date: 2015-03-06 ; Times: 1
+	Date: 2015-03-13 ; Times: 1
+	Date: 2015-03-16 ; Times: 1
+	Date: 2015-03-19 ; Times: 1
+	Date: 2015-03-20 ; Times: 1
+	Date: 2015-03-28 ; Times: 2
+	Date: 2015-03-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Megaloceros" ; Times: 2
+	Query: "catalognumber:32932 institutioncode:ROM" ; Times: 1
+	Query: "toxodon" ; Times: 1
+	Query: "ROM Erethizontidae" ; Times: 1
+	Query: "Cretaceous institutioncode:ROM" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "Dasypus" ; Times: 1
+	Query: "smilodon" ; Times: 1
+	Query: "panthera fossil:1" ; Times: 1
+	Query: "Elephantidae" ; Times: 1
+	Query: "catalognumber:34167 institutioncode:ROM" ; Times: 1
+	Query: "symbos" ; Times: 1
+	Query: "Panthera onca" ; Times: 3
+	Query: "Odobenidae" ; Times: 1
+	Query: "bulla" ; Times: 1
+	Query: "Equus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 298 download events in this period)
+Total number of records downloaded: 856 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 856
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Costa Rica ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-05 ; Times: 1
+	Date: 2015-03-06 ; Times: 1
+	Date: 2015-03-12 ; Times: 1
+	Date: 2015-03-19 ; Times: 2
+	Date: 2015-03-20 ; Times: 1
+	Date: 2015-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ovis canadensis" ; Times: 1
+	Query: "Leopardus pardalis." ; Times: 1
+	Query: "Phocidae" ; Times: 1
+	Query: "ROM Echimyidae" ; Times: 1
+	Query: "type:specimen genus:canis (skull OR mandible) AND (NOT latrans NOT lupus)" ; Times: 1
+	Query: "Cetacea" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 45
+Total number of records retrieved from searches: 662
+Number of download events that retrieved data from the resource: 43
+Total number of records downloaded: 37758
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 87
+Total number of records retrieved from searches: 1563
+Number of download events that retrieved data from the resource: 43
+Total number of records downloaded: 37758
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
