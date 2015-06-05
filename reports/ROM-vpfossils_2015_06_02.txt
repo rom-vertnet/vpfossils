@@ -1,0 +1,167 @@
+Report for Institution Code ROM, Resource vpfossils
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 104
+Number of records retrieved in searches: 3078
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 4
+	Country: Colombia ; Times: 5
+	Country: India ; Times: 4
+	Country: Mexico ; Times: 6
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 80
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-07 ; Times: 2
+	Date: 2015-05-11 ; Times: 1
+	Date: 2015-05-12 ; Times: 2
+	Date: 2015-05-15 ; Times: 11
+	Date: 2015-05-17 ; Times: 1
+	Date: 2015-05-18 ; Times: 3
+	Date: 2015-05-19 ; Times: 8
+	Date: 2015-05-20 ; Times: 4
+	Date: 2015-05-22 ; Times: 2
+	Date: 2015-05-23 ; Times: 1
+	Date: 2015-05-25 ; Times: 1
+	Date: 2015-05-26 ; Times: 18
+	Date: 2015-05-27 ; Times: 2
+	Date: 2015-05-28 ; Times: 4
+	Date: 2015-05-29 ; Times: 12
+	Date: 2015-05-30 ; Times: 31
+	Date: 2015-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Leopardus (neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "genus:Machairodus" ; Times: 1
+	Query: "hemiauchenia macrocephala" ; Times: 3
+	Query: "Panthera onca augusta" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera (juvenile OR cub OR subadult OR sub-adult OR neonate)" ; Times: 1
+	Query: "genus:Dusicyon (neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "hyaena hyaena" ; Times: 1
+	Query: "genus:Puma (neonate OR juvenile OR subadult OR sub-adult)" ; Times: 2
+	Query: "septentrionalis kansas ellsworth" ; Times: 1
+	Query: "specificepithet:gracilis genus:smilodon" ; Times: 2
+	Query: "Hippopotamus melitensis" ; Times: 2
+	Query: "genus:Leopardus (cub OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "specificepithet:dirus institutioncode:ROM fossil:1" ; Times: 1
+	Query: "genus:Panthera (cub OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "Neochoerus pinckneyi" ; Times: 1
+	Query: "axis" ; Times: 3
+	Query: "Palaeolama vertebra fossil:1" ; Times: 1
+	Query: "genus:machairodus (neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "genus:puma (juvenile OR cub OR subadult OR sub-adult OR neonate)" ; Times: 1
+	Query: "palaeolama" ; Times: 5
+	Query: "specificepithet:onca genus:panthera (neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "trichechus manatus" ; Times: 3
+	Query: "didelphis fossil:1" ; Times: 3
+	Query: "Cypretherium coarctatum" ; Times: 1
+	Query: "genus:Homotherium (neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "genus:Machairodus (juvenile OR neonate OR cub OR subadult OR sub-adult)" ; Times: 1
+	Query: "catalognumber:30758" ; Times: 1
+	Query: "specificepithet:onca genus:panthera (juvenile)" ; Times: 1
+	Query: "genus:Smilodon (neonate OR juvenile OR subadult OR sub-adult)" ; Times: 3
+	Query: "type:specimen catalognumber:30393 institutioncode:ROM" ; Times: 2
+	Query: "type:specimen specificepithet:dirus genus:Canis institutioncode:ROM fossil:1" ; Times: 1
+	Query: "Lycalopex sechurae" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera (neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "Palaeolama axis fossil:1" ; Times: 2
+	Query: "institutioncode:rom glyptodon" ; Times: 4
+	Query: "Mesonyx" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera (juvenile OR neonate OR cub OR subadult OR sub-adult)" ; Times: 1
+	Query: "genus:Puma (cub OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "stateprovince:"New York" fossil:1" ; Times: 1
+	Query: "Palaeolama fossil:1" ; Times: 7
+	Query: "Tapirus copei" ; Times: 1
+	Query: "crocuta" ; Times: 1
+	Query: "genus:puma (cub OR neonate OR juvenile OR sub-adult OR subadult)" ; Times: 1
+	Query: "genus:smilodon (juvenile OR cub OR subadult OR sub-adult OR neonate)" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera (juvenile OR subadult OR sub-adult)" ; Times: 3
+	Query: "eremotherium" ; Times: 1
+	Query: "panthera onca" ; Times: 5
+	Query: "genus:Leopardus (juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "genus:panthera (cub OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "institutioncode:rom glyptodontidae caudal osteoderm" ; Times: 1
+	Query: "(caudal)" ; Times: 1
+	Query: "genus:Puma (juvenile OR neonate OR cub OR subadult OR sub-adult)" ; Times: 1
+	Query: "type:specimen country:"India" fossil:1" ; Times: 3
+	Query: "genus:panthera (juvenile)" ; Times: 2
+	Query: "tusk" ; Times: 1
+	Query: "Entelodontidae" ; Times: 1
+	Query: "specificepithet:onca genus:panthera (cub OR juvenile OR subadult OR sub-adult)" ; Times: 2
+	Query: "genus:Leopardus (juvenile OR neonate OR cub OR subadult OR sub-adult)" ; Times: 1
+	Query: "genus:puma (neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "afarensis" ; Times: 1
+	Query: "type:specimen country:"India" AND (Not Mammalia) fossil:1" ; Times: 1
+	Query: "institutioncode:rom glyptodontidae caudal" ; Times: 1
+	Query: "specificepithet:onca genus:panthera (juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "genus:arctodus (cub OR neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "institutioncode:rom pampatheriidae caudal" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 976 download events in this period)
+Total number of records downloaded: 849 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 647
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 7
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-09 ; Times: 7
+	Date: 2015-05-12 ; Times: 2
+	Date: 2015-05-19 ; Times: 2
+	Date: 2015-05-21 ; Times: 3
+	Date: 2015-05-22 ; Times: 2
+	Date: 2015-05-26 ; Times: 4
+	Date: 2015-05-27 ; Times: 1
+	Date: 2015-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: ""lynx rufus"" ; Times: 1
+	Query: "Palaeolama vertebra fossil:1" ; Times: 2
+	Query: "trichechus manatus" ; Times: 1
+	Query: "fmnh class:mammalia" ; Times: 1
+	Query: "Capromyidae" ; Times: 1
+	Query: "Canis latrans" ; Times: 2
+	Query: "Canis lupus lupus" ; Times: 1
+	Query: "country:"Venezuela" class:Mammalia" ; Times: 1
+	Query: "Chinchillidae" ; Times: 1
+	Query: "Erethizontidae" ; Times: 1
+	Query: "Ochotona" ; Times: 1
+	Query: "Ctenomyidae" ; Times: 1
+	Query: "Phyllostomidae" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "stateprovince:"New Mexico" class:mammalia" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "Echimyidae" ; Times: 1
+	Query: "Caviidae" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 149
+Total number of records retrieved from searches: 3740
+Number of download events that retrieved data from the resource: 65
+Total number of records downloaded: 38607
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 191
+Total number of records retrieved from searches: 4641
+Number of download events that retrieved data from the resource: 65
+Total number of records downloaded: 38607
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
