@@ -1,0 +1,167 @@
+Report for Institution Code ROM, Resource vpfossils
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 102
+Number of records retrieved in searches: 1189
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Colombia ; Times: 2
+	Country: France ; Times: 1
+	Country: Italy ; Times: 31
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 62
+	Country: Unknown ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 3
+	Date: 2015-06-02 ; Times: 18
+	Date: 2015-06-03 ; Times: 1
+	Date: 2015-06-04 ; Times: 1
+	Date: 2015-06-05 ; Times: 5
+	Date: 2015-06-08 ; Times: 9
+	Date: 2015-06-09 ; Times: 3
+	Date: 2015-06-10 ; Times: 2
+	Date: 2015-06-11 ; Times: 4
+	Date: 2015-06-15 ; Times: 9
+	Date: 2015-06-16 ; Times: 3
+	Date: 2015-06-17 ; Times: 1
+	Date: 2015-06-18 ; Times: 3
+	Date: 2015-06-19 ; Times: 2
+	Date: 2015-06-20 ; Times: 1
+	Date: 2015-06-22 ; Times: 1
+	Date: 2015-06-23 ; Times: 11
+	Date: 2015-06-24 ; Times: 20
+	Date: 2015-06-25 ; Times: 1
+	Date: 2015-06-29 ; Times: 2
+	Date: 2015-06-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "30684" ; Times: 1
+	Query: "ziphiidae" ; Times: 1
+	Query: "mesonyx" ; Times: 2
+	Query: "genus:puma (neonate OR cub OR pup OR juvenile OR sub-adult OR subadult)" ; Times: 1
+	Query: "genus:puma (neonate OR juvenile OR cub OR subadult OR sub-adult OR kitten)" ; Times: 1
+	Query: "sicily" ; Times: 2
+	Query: "genus:Leopardus (neonate OR juvenile OR cub OR subadult OR sub-adult OR kitten OR immature)" ; Times: 2
+	Query: "septentrionalis ellsworth kansas" ; Times: 1
+	Query: "genus:puma (neonate OR juvenile OR cub OR subadult OR sub-adult OR kitten OR immature)" ; Times: 1
+	Query: "Hexameryx" ; Times: 1
+	Query: "pachyrukhos" ; Times: 1
+	Query: "type:specimen (holocene)" ; Times: 2
+	Query: "genus:panthera (neonate OR juvenile OR cub OR subadult OR sub-adult OR kitten OR immature)" ; Times: 1
+	Query: "ROM 3042" ; Times: 1
+	Query: "genus:puma (cub OR neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "Monachus tropicalis" ; Times: 3
+	Query: "specificepithet:carolinensis genus:sciurus institutioncode:ROM" ; Times: 1
+	Query: "canis lupus type:specimen (skull mandible) AND (NOT USA NOT united )" ; Times: 1
+	Query: "genus:Panthera (cub OR neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "canis dirus" ; Times: 3
+	Query: "FossilSpecimen institutioncode:ROM" ; Times: 1
+	Query: "Hexobelomeryx" ; Times: 1
+	Query: "Hyracodon" ; Times: 5
+	Query: "pocket gophers" ; Times: 1
+	Query: "genus:panthera (neonate OR cub OR juvenile OR sub-adult OR subadult)" ; Times: 1
+	Query: "Hyrachyus" ; Times: 7
+	Query: "FossilSpecimen" ; Times: 1
+	Query: "Equus" ; Times: 1
+	Query: "adapidae" ; Times: 2
+	Query: "catalognumber:21640" ; Times: 2
+	Query: "mammals peru" ; Times: 2
+	Query: "Aphelops" ; Times: 1
+	Query: "genus:panthera (neonate OR cub OR pup OR juvenile OR sub-adult OR subadult) fossil:1" ; Times: 1
+	Query: "puma concolor type:specimen stateprovince:"Maryland"" ; Times: 1
+	Query: "canis lupus type:specimen (skull mandible)" ; Times: 1
+	Query: "genus:Bison class:Mammalia mappable:1" ; Times: 1
+	Query: "Capromeryx" ; Times: 1
+	Query: "genus:panthera (neonate OR cub OR juvenile OR sub-adult OR subadult) AND (NOT leo)" ; Times: 1
+	Query: "Tetrameryx" ; Times: 1
+	Query: "type:specimen (cetacea) fossil:1" ; Times: 1
+	Query: "Panthera onca" ; Times: 3
+	Query: "catalognumber:51493" ; Times: 1
+	Query: "ROM 54789" ; Times: 1
+	Query: "Anthracotheriidae" ; Times: 1
+	Query: "genus:panthera (neonate OR juvenile OR cub OR subadult OR sub-adult OR kitten)" ; Times: 2
+	Query: "FossilSpecimen institutioncode:ROM fossil:1" ; Times: 1
+	Query: "Equus fossil" ; Times: 4
+	Query: "jaguar" ; Times: 1
+	Query: "catalognumber:49434" ; Times: 1
+	Query: "catalognumber:57526" ; Times: 1
+	Query: "genus:panthera (neonate OR juvenile OR cub OR subadult OR sub-adult)" ; Times: 1
+	Query: "Thylacosmilus" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "genus:puma (neonate OR juvenile OR cub OR subadult OR sub-adult)" ; Times: 1
+	Query: "entelodontidae" ; Times: 1
+	Query: "catalognumber:38682" ; Times: 1
+	Query: "ROM 23325" ; Times: 1
+	Query: "35696" ; Times: 4
+	Query: "50396 mammalia" ; Times: 1
+	Query: "institutioncode:ROM fossil:1" ; Times: 1
+	Query: "specificepithet:onca genus:panthera (augusta)" ; Times: 1
+	Query: "creodonta" ; Times: 9
+	Query: "Equus fossil:1" ; Times: 1
+	Query: "46590" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 1524 download events in this period)
+Total number of records downloaded: 318 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 312
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Italy ; Times: 1
+	Country: United States ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 1
+	Date: 2015-06-09 ; Times: 2
+	Date: 2015-06-11 ; Times: 2
+	Date: 2015-06-15 ; Times: 1
+	Date: 2015-06-16 ; Times: 6
+	Date: 2015-06-18 ; Times: 1
+	Date: 2015-06-25 ; Times: 2
+	Date: 2015-06-26 ; Times: 1
+	Date: 2015-06-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "turkey" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "israel" ; Times: 1
+	Query: "sicily" ; Times: 1
+	Query: "iran" ; Times: 1
+	Query: "specificepithet:pinetis genus:geomys" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "stateprovince:"oklahoma" class:Mammalia" ; Times: 1
+	Query: "Illinois" ; Times: 1
+	Query: "Sigmodon hispidus" ; Times: 1
+	Query: "Jordan" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "Iraq" ; Times: 1
+	Query: "type:specimen (holocene)" ; Times: 1
+	Query: "Myotis lucifugus country:"canada"" ; Times: 1
+	Query: "ziphiidae" ; Times: 1
+	Query: ""didelphis virginiana"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 251
+Total number of records retrieved from searches: 4929
+Number of download events that retrieved data from the resource: 82
+Total number of records downloaded: 38925
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 293
+Total number of records retrieved from searches: 5830
+Number of download events that retrieved data from the resource: 82
+Total number of records downloaded: 38925
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
