@@ -1,0 +1,152 @@
+Report for Institution Code ROM, Resource vpfossils
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 82
+Number of records retrieved in searches: 1681
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 16
+	Country: Papua New Guinea ; Times: 1
+	Country: United States ; Times: 48
+	Country: Germany ; Times: 7
+	Country: French Guiana ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-02 ; Times: 5
+	Date: 2015-09-10 ; Times: 12
+	Date: 2015-09-09 ; Times: 1
+	Date: 2015-09-22 ; Times: 1
+	Date: 2015-09-18 ; Times: 1
+	Date: 2015-09-23 ; Times: 2
+	Date: 2015-09-07 ; Times: 1
+	Date: 2015-09-11 ; Times: 2
+	Date: 2015-09-05 ; Times: 3
+	Date: 2015-09-04 ; Times: 2
+	Date: 2015-09-29 ; Times: 9
+	Date: 2015-09-28 ; Times: 5
+	Date: 2015-09-01 ; Times: 11
+	Date: 2015-09-17 ; Times: 3
+	Date: 2015-09-25 ; Times: 13
+	Date: 2015-09-03 ; Times: 2
+	Date: 2015-09-27 ; Times: 2
+	Date: 2015-09-26 ; Times: 1
+	Date: 2015-09-15 ; Times: 2
+	Date: 2015-09-30 ; Times: 2
+	Date: 2015-09-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen specificepithet:dirus genus:Canis" ; Times: 2
+	Query: "allodesmus" ; Times: 1
+	Query: "gbifdatasetid:e0dbf705-cec4-4dce-a152-fc4ebe14674d" ; Times: 1
+	Query: "genus:Papio preparations:skull" ; Times: 1
+	Query: "human evolution" ; Times: 3
+	Query: "catalognumber:12073" ; Times: 1
+	Query: "smilodon" ; Times: 1
+	Query: "xenarthra" ; Times: 1
+	Query: "crocuta crocuta" ; Times: 4
+	Query: "&#34;FossilSpecimen&#34;" ; Times: 1
+	Query: "58779" ; Times: 1
+	Query: "Martes americana fossil:1" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 1
+	Query: "fossil:1" ; Times: 2
+	Query: "Odocoileus virginianus (road)" ; Times: 1
+	Query: "64800" ; Times: 1
+	Query: "Panthera onca type:specimen (skull)" ; Times: 1
+	Query: "R.30826" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "lutra canadensis" ; Times: 1
+	Query: "martes americana fossil:1" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Coelodonta antiquitatis" ; Times: 4
+	Query: "crocuta" ; Times: 3
+	Query: "genus:panthera" ; Times: 1
+	Query: "&#34;FossilSpecimen&#34; fossil:1" ; Times: 5
+	Query: "Dermoptera" ; Times: 9
+	Query: "dasypus" ; Times: 1
+	Query: "xenarthra tissue:1" ; Times: 2
+	Query: "catalognumber:48099" ; Times: 1
+	Query: "panthera onca" ; Times: 13
+	Query: "ROM 31504" ; Times: 1
+	Query: "type:specimen catalognumber:19612" ; Times: 1
+	Query: "year &gt;= 1900 year &lt;= 2015 fossil:1" ; Times: 1
+	Query: "ROM 23326" ; Times: 1
+	Query: "institutioncode:ROM fossil:1" ; Times: 2
+	Query: "&#34;panthera onca&#34; mappable:1" ; Times: 1
+	Query: "&#34;Panthera onca&#34; mappable:1" ; Times: 2
+	Query: "type:specimen specificepithet:dirus genus:canis institutioncode:ROM" ; Times: 1
+	Query: "genus:Ochotona fossil:1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 49 (out of 1045 download events in this period)
+Total number of records downloaded: 19376
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 4
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 37
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-01 ; Times: 4
+	Date: 2015-09-10 ; Times: 14
+	Date: 2015-09-29 ; Times: 1
+	Date: 2015-09-15 ; Times: 4
+	Date: 2015-09-16 ; Times: 12
+	Date: 2015-09-17 ; Times: 4
+	Date: 2015-09-25 ; Times: 2
+	Date: 2015-09-08 ; Times: 4
+	Date: 2015-09-26 ; Times: 1
+	Date: 2015-09-09 ; Times: 1
+	Date: 2015-09-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Mephitis mephitis" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 2
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "Bison bison" ; Times: 2
+	Query: "Myotis lucifugus" ; Times: 2
+	Query: "(Mammuthus )" ; Times: 1
+	Query: "genus:Marmosa" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 2
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "peru" ; Times: 1
+	Query: "genus:ochotona" ; Times: 5
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "order:Chiroptera continent:North America" ; Times: 2
+	Query: "(Peromyscus)" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Dermoptera" ; Times: 2
+	Query: "Microtus pinetorum" ; Times: 2
+	Query: "Tamias striatus" ; Times: 1
+	Query: "genus:Papio preparations:skull" ; Times: 1
+	Query: "Marmota monax" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 1
+	Query: "order:Chiroptera continent:South America" ; Times: 2
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "dermoptera" ; Times: 2
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "year:1859" ; Times: 1
+
+
+End of report.
