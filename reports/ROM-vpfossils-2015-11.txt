@@ -1,0 +1,128 @@
+Report for Institution Code ROM, Resource vpfossils
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 39
+Number of records retrieved in searches: 197
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 25
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-04 ; Times: 3
+	Date: 2015-11-27 ; Times: 6
+	Date: 2015-11-01 ; Times: 1
+	Date: 2015-11-20 ; Times: 1
+	Date: 2015-11-05 ; Times: 3
+	Date: 2015-11-19 ; Times: 1
+	Date: 2015-11-18 ; Times: 3
+	Date: 2015-11-09 ; Times: 2
+	Date: 2015-11-28 ; Times: 1
+	Date: 2015-11-29 ; Times: 1
+	Date: 2015-11-11 ; Times: 1
+	Date: 2015-11-24 ; Times: 2
+	Date: 2015-11-10 ; Times: 1
+	Date: 2015-11-23 ; Times: 1
+	Date: 2015-11-12 ; Times: 1
+	Date: 2015-11-06 ; Times: 7
+	Date: 2015-11-13 ; Times: 1
+	Date: 2015-11-17 ; Times: 1
+	Date: 2015-11-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Cantius" ; Times: 1
+	Query: "genus:Ursus stateprovince:(california OR wyoming)" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 1
+	Query: "Canis dirus" ; Times: 2
+	Query: "ROM 33123" ; Times: 1
+	Query: "catalognumber:38526 institutioncode:ROM" ; Times: 2
+	Query: "28850" ; Times: 1
+	Query: "Pelorovis" ; Times: 1
+	Query: "ROM 23351" ; Times: 1
+	Query: "Canis dirus type:specimen" ; Times: 1
+	Query: "Climacoceras" ; Times: 1
+	Query: "28884" ; Times: 1
+	Query: "PROBOSCIDEA" ; Times: 1
+	Query: "Chaeropus ecaudatus" ; Times: 2
+	Query: "Coelodonta antiquitatis" ; Times: 3
+	Query: "Dasypus" ; Times: 1
+	Query: "Capromeryx" ; Times: 1
+	Query: "33462" ; Times: 1
+	Query: "trichechus" ; Times: 1
+	Query: "SIRENIA" ; Times: 1
+	Query: "rom 23325" ; Times: 1
+	Query: "Sivatherium" ; Times: 1
+	Query: "class:Mammalia county:&#34;San Diego County&#34; fossil:1" ; Times: 1
+	Query: "type:specimen fossil:1" ; Times: 1
+	Query: "catalognumber:26375 institutioncode:ROM" ; Times: 1
+	Query: "equus" ; Times: 1
+	Query: "08655" ; Times: 1
+	Query: "catalognumber:24638" ; Times: 1
+	Query: "Torontoceros" ; Times: 1
+	Query: "(panthera onca)" ; Times: 1
+	Query: "ROM 23325" ; Times: 1
+	Query: "ROM 19755" ; Times: 2
+	Query: "Chaeropus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 57 (out of 751 download events in this period)
+Total number of records downloaded: 8973
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 54
+	Country: Unknown ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-03 ; Times: 15
+	Date: 2015-11-01 ; Times: 4
+	Date: 2015-11-02 ; Times: 4
+	Date: 2015-11-16 ; Times: 1
+	Date: 2015-11-15 ; Times: 3
+	Date: 2015-11-17 ; Times: 1
+	Date: 2015-11-11 ; Times: 1
+	Date: 2015-11-08 ; Times: 3
+	Date: 2015-11-04 ; Times: 3
+	Date: 2015-11-05 ; Times: 3
+	Date: 2015-11-10 ; Times: 2
+	Date: 2015-11-24 ; Times: 3
+	Date: 2015-11-25 ; Times: 1
+	Date: 2015-11-13 ; Times: 2
+	Date: 2015-11-12 ; Times: 1
+	Date: 2015-11-06 ; Times: 4
+	Date: 2015-11-07 ; Times: 4
+	Date: 2015-11-22 ; Times: 1
+	Date: 2015-11-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Chaeropus ecaudatus" ; Times: 1
+	Query: "mammuthus primigenius" ; Times: 1
+	Query: "class:mammalia stateprovince:California" ; Times: 37
+	Query: "Alces year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "country:&#34;Ethiopia&#34;" ; Times: 1
+	Query: "class:Mammalia Cervus canadensis" ; Times: 2
+	Query: "Canis lupus North America" ; Times: 1
+	Query: "class:Mammalia stateprovince:California" ; Times: 2
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 1
+	Query: "Ursus" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "procyon lotor" ; Times: 2
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "mammuthus columbi" ; Times: 1
+	Query: "Testudines" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.
