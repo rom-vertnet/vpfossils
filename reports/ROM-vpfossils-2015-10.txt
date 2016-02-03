@@ -1,0 +1,152 @@
+Report for Institution Code ROM, Resource vpfossils
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 130
+Number of records retrieved in searches: 2817
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 11
+	Country: Czech Republic ; Times: 1
+	Country: Mexico ; Times: 14
+	Country: France ; Times: 4
+	Country: United States ; Times: 96
+	Country: Guatemala ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 6
+	Date: 2015-10-15 ; Times: 3
+	Date: 2015-10-12 ; Times: 1
+	Date: 2015-10-13 ; Times: 2
+	Date: 2015-10-10 ; Times: 1
+	Date: 2015-10-29 ; Times: 4
+	Date: 2015-10-28 ; Times: 1
+	Date: 2015-10-27 ; Times: 1
+	Date: 2015-10-26 ; Times: 2
+	Date: 2015-10-24 ; Times: 3
+	Date: 2015-10-23 ; Times: 3
+	Date: 2015-10-22 ; Times: 7
+	Date: 2015-10-21 ; Times: 2
+	Date: 2015-10-05 ; Times: 5
+	Date: 2015-10-07 ; Times: 33
+	Date: 2015-10-06 ; Times: 6
+	Date: 2015-10-01 ; Times: 37
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-08 ; Times: 1
+	Date: 2015-10-30 ; Times: 8
+	Date: 2015-10-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gbifdatasetid:e0dbf705-cec4-4dce-a152-fc4ebe14674d" ; Times: 3
+	Query: "panthera" ; Times: 1
+	Query: "specificepithet:dirus genus:Canis" ; Times: 1
+	Query: "smilodon" ; Times: 1
+	Query: "smilodon fatalis" ; Times: 4
+	Query: "rom 19142" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "thylacosmilus lentis" ; Times: 3
+	Query: "21258" ; Times: 1
+	Query: "smilodon gracilis" ; Times: 5
+	Query: "PANTHERA ONCA" ; Times: 1
+	Query: "specificepithet:pardalis genus:Leopardus institutioncode:ROM" ; Times: 1
+	Query: "type:specimen catalognumber:41463 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:27542" ; Times: 1
+	Query: "Climacoceras" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 4
+	Query: "Platybelodon" ; Times: 1
+	Query: "Jaguar" ; Times: 1
+	Query: "Panthera onca" ; Times: 3
+	Query: "catalognumber:29329" ; Times: 1
+	Query: "02389 institutioncode:rom" ; Times: 1
+	Query: "institutioncode:rom panthera" ; Times: 2
+	Query: "axis axis" ; Times: 1
+	Query: "05119 institutioncode:rom" ; Times: 1
+	Query: "Rhizomys sinensis" ; Times: 1
+	Query: "type:specimen specificepithet:dirus genus:canis institutioncode:ROM fossil:1" ; Times: 1
+	Query: "type:specimen catalognumber:27993 institutioncode:ROM" ; Times: 1
+	Query: "ROM 23325" ; Times: 1
+	Query: "05112 institutioncode:rom" ; Times: 1
+	Query: "Ceratogaulus" ; Times: 1
+	Query: "Prehistoric fossils" ; Times: 3
+	Query: "panthera onca" ; Times: 67
+	Query: "sirenia" ; Times: 2
+	Query: "04737 gbifdatasetid:e0dbf705-cec4-4dce-a152-fc4ebe14674d" ; Times: 1
+	Query: "ROM 23326" ; Times: 1
+	Query: "dasypus bellus" ; Times: 4
+	Query: "Odocoileus virginianus and florida" ; Times: 1
+	Query: "class:Mammalia country:&#34;USA&#34;" ; Times: 2
+	Query: "type:specimen catalognumber:29329" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 41 (out of 823 download events in this period)
+Total number of records downloaded: 2293
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+	Country: Brazil ; Times: 2
+	Country: Bangladesh ; Times: 1
+	Country: Uganda ; Times: 1
+	Country: Mexico ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 5
+	Date: 2015-10-07 ; Times: 2
+	Date: 2015-10-06 ; Times: 1
+	Date: 2015-10-12 ; Times: 1
+	Date: 2015-10-02 ; Times: 2
+	Date: 2015-10-08 ; Times: 1
+	Date: 2015-10-19 ; Times: 2
+	Date: 2015-10-30 ; Times: 9
+	Date: 2015-10-15 ; Times: 1
+	Date: 2015-10-29 ; Times: 4
+	Date: 2015-10-28 ; Times: 1
+	Date: 2015-10-27 ; Times: 2
+	Date: 2015-10-31 ; Times: 3
+	Date: 2015-10-25 ; Times: 1
+	Date: 2015-10-26 ; Times: 3
+	Date: 2015-10-22 ; Times: 2
+	Date: 2015-10-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Adinotherium" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; fossil:1" ; Times: 1
+	Query: "bison priscus" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "uganda" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "dama.dama" ; Times: 1
+	Query: "ovis aries" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "cervus elaphus" ; Times: 1
+	Query: "Omo" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "genus:Aepyceros" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "genus:Acinonyx" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "type:specimen catalognumber:41463 institutioncode:ROM" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "order:primates" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus" ; Times: 1
+	Query: "(Panthera tigris)" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "type:specimen catalognumber:27993 institutioncode:ROM" ; Times: 1
+	Query: "panthera onca" ; Times: 4
+	Query: "county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "class: Mammalia locality:Uinta stateprovince:&#34;Utah&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Panthera leo" ; Times: 4
+
+
+End of report.
