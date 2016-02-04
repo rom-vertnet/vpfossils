@@ -1,0 +1,139 @@
+Report for Institution Code ROM, Resource Vertebrate Paleontology
+Usage stats for January, 2016, generated on 2016/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 40
+Number of records retrieved in searches: 341
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 5
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: United States ; Times: 30
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-05 ; Times: 2
+	Date: 2016-01-07 ; Times: 2
+	Date: 2016-01-08 ; Times: 4
+	Date: 2016-01-11 ; Times: 3
+	Date: 2016-01-14 ; Times: 2
+	Date: 2016-01-15 ; Times: 1
+	Date: 2016-01-17 ; Times: 1
+	Date: 2016-01-18 ; Times: 2
+	Date: 2016-01-20 ; Times: 3
+	Date: 2016-01-22 ; Times: 2
+	Date: 2016-01-23 ; Times: 9
+	Date: 2016-01-24 ; Times: 1
+	Date: 2016-01-25 ; Times: 1
+	Date: 2016-01-27 ; Times: 3
+	Date: 2016-01-28 ; Times: 1
+	Date: 2016-01-30 ; Times: 1
+	Date: 2016-01-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "10020 rom" ; Times: 1
+	Query: "Makapania" ; Times: 1
+	Query: "onca type:specimen (Panthera OR Felis)" ; Times: 2
+	Query: "smilodon" ; Times: 1
+	Query: "chaeropus" ; Times: 1
+	Query: "Arctodus AND (skull) fossil:1" ; Times: 1
+	Query: "ROM 23317" ; Times: 1
+	Query: "Axis axis" ; Times: 1
+	Query: "rom 38002" ; Times: 1
+	Query: "Climacoceras" ; Times: 1
+	Query: "rom 36823" ; Times: 1
+	Query: "mesonychia fossil:1" ; Times: 1
+	Query: "Equus" ; Times: 4
+	Query: "Moropus" ; Times: 1
+	Query: "fossil:1" ; Times: 1
+	Query: "unsm" ; Times: 1
+	Query: "58820" ; Times: 1
+	Query: "Coelodonta antiquitatis" ; Times: 5
+	Query: "Dasypus" ; Times: 1
+	Query: "Capromeryx" ; Times: 1
+	Query: "Giraffokeryx" ; Times: 1
+	Query: "odocoileus type:specimen fossil:1" ; Times: 1
+	Query: "ROM 43379" ; Times: 1
+	Query: "dasypus" ; Times: 2
+	Query: "30635 institutioncode:ROM" ; Times: 1
+	Query: "genus:Equus" ; Times: 4
+	Query: "Macrauchenia" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 507 download events in this period)
+Total number of records downloaded: 958 (out of 4904477 records downloaded for all resources in this period)
+Total number of unique records downloaded: 938
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 7
+	Country: United States ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-01 ; Times: 1
+	Date: 2016-01-02 ; Times: 1
+	Date: 2016-01-04 ; Times: 3
+	Date: 2016-01-05 ; Times: 4
+	Date: 2016-01-06 ; Times: 1
+	Date: 2016-01-08 ; Times: 1
+	Date: 2016-01-10 ; Times: 1
+	Date: 2016-01-12 ; Times: 2
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-14 ; Times: 1
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-22 ; Times: 1
+	Date: 2016-01-27 ; Times: 1
+	Date: 2016-01-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "Cynomys" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "family:Caviidae OR Abrocomidae OR Dinomyidae OR Dasyproctidae OR Cuniculidae OR Octodontidae OR Ctenomyidae OR Echimyidae OR Myocastoridae OR Capromyidae OR Heptaxodontidae OR Chinchillidae" ; Times: 1
+	Query: "Crocuta" ; Times: 1
+	Query: "Lynx lynx" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+	Query: "Muridae type:specimen country:"USA"" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "specificepithet:mephitis genus:Mephitis" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: No data
+Total number of records retrieved from searches: No data
+Number of download events that retrieved data from the resource: 22
+Total number of records downloaded: 958
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 40
+Total number of records retrieved from searches: 341
+Number of download events that retrieved data from the resource: 22
+Total number of records downloaded: 958
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
