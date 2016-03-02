@@ -1,0 +1,98 @@
+Report for Institution Code ROM, Resource vpfossils
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 43
+Number of records retrieved in searches: 438
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: United States ; Times: 12
+	Country: Canada ; Times: 3
+	Country: Mexico ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-05 ; Times: 1
+	Date: 2016-02-04 ; Times: 5
+	Date: 2016-02-23 ; Times: 1
+	Date: 2016-02-08 ; Times: 1
+	Date: 2016-02-18 ; Times: 5
+	Date: 2016-02-19 ; Times: 14
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-24 ; Times: 2
+	Date: 2016-02-13 ; Times: 3
+	Date: 2016-02-03 ; Times: 2
+	Date: 2016-02-02 ; Times: 1
+	Date: 2016-02-16 ; Times: 2
+	Date: 2016-02-17 ; Times: 2
+	Date: 2016-02-15 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; recordedby:WALKER" ; Times: 1
+	Query: "Coelodonta antiquitatis" ; Times: 2
+	Query: "55253" ; Times: 1
+	Query: "catalognumber:29532 institutioncode:ROM" ; Times: 2
+	Query: "panthera" ; Times: 1
+	Query: "Dasypus mappable:1" ; Times: 2
+	Query: "Trichechus manatus" ; Times: 1
+	Query: "ROM 22876" ; Times: 1
+	Query: "46719" ; Times: 1
+	Query: "dods" ; Times: 1
+	Query: "catalognumber:36151 institutioncode:ROM" ; Times: 1
+	Query: "ROM 32343" ; Times: 1
+	Query: "ROM 45256" ; Times: 2
+	Query: "ROM 19656" ; Times: 1
+	Query: "panthera onca" ; Times: 5
+	Query: "Climacoceras" ; Times: 1
+	Query: "dasypus mappable:1" ; Times: 2
+	Query: "ROM 37617" ; Times: 3
+	Query: "Panthera onca" ; Times: 12
+	Query: "catalognumber:36104 institutioncode:ROM" ; Times: 1
+	Query: "ROM 42631" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 512 download events in this period)
+Total number of records downloaded: 1110
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Canada ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Mexico ; Times: 20
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-18 ; Times: 6
+	Date: 2016-02-04 ; Times: 3
+	Date: 2016-02-22 ; Times: 1
+	Date: 2016-02-21 ; Times: 1
+	Date: 2016-02-19 ; Times: 9
+	Date: 2016-02-12 ; Times: 2
+	Date: 2016-02-03 ; Times: 1
+	Date: 2016-02-02 ; Times: 1
+	Date: 2016-02-05 ; Times: 1
+	Date: 2016-02-17 ; Times: 1
+	Date: 2016-02-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "dermoptera" ; Times: 3
+	Query: "county:&#34;Sheridan&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "genus:sorex (NOT institutioncode:USNM)" ; Times: 1
+	Query: "Eira" ; Times: 1
+	Query: "Delphinidae" ; Times: 1
+	Query: "Bos taurus" ; Times: 1
+	Query: "puma concolor" ; Times: 8
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "county:&#34;Shannon&#34; stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "Puma concolor" ; Times: 5
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "Puma Concolor" ; Times: 1
+	Query: "genus:martes continent:north america" ; Times: 1
+
+
+End of report.
