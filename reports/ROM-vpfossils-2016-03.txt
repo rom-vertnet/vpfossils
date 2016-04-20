@@ -1,0 +1,65 @@
+Report for Institution Code ROM, Resource vpfossils
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 10
+Number of records retrieved in searches: 17
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 7
+	Country: Italy ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-11 ; Times: 2
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-14 ; Times: 1
+	Date: 2016-03-04 ; Times: 1
+	Date: 2016-03-02 ; Times: 2
+	Date: 2016-03-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "ROM 41217" ; Times: 1
+	Query: "genus:puma specificepithet:concolor" ; Times: 2
+	Query: "type:specimen specificepithet:arctos stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "catalognumber:34429 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "ROM 30874" ; Times: 1
+	Query: "loxodonta fossil:1" ; Times: 1
+	Query: "TOXODON" ; Times: 1
+	Query: "catalognumber:27922 institutioncode:ROM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 230 download events in this period)
+Total number of records downloaded: 167
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 2
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-08 ; Times: 2
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-05 ; Times: 1
+	Date: 2016-03-10 ; Times: 1
+	Date: 2016-03-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "killdeer" ; Times: 1
+	Query: "ochotona" ; Times: 2
+	Query: "Alces alces" ; Times: 1
+	Query: "dasyurus" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+
+
+End of report.
