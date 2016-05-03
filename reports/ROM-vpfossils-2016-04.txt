@@ -1,0 +1,154 @@
+Report for Institution Code ROM, Resource vpfossils
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 131
+Number of records retrieved in searches: 2953
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 84
+	Country: United States ; Times: 25
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Spain ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-13 ; Times: 58
+	Date: 2016-04-08 ; Times: 3
+	Date: 2016-04-22 ; Times: 3
+	Date: 2016-04-06 ; Times: 2
+	Date: 2016-04-11 ; Times: 1
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-27 ; Times: 4
+	Date: 2016-04-18 ; Times: 7
+	Date: 2016-04-19 ; Times: 3
+	Date: 2016-04-05 ; Times: 3
+	Date: 2016-04-14 ; Times: 10
+	Date: 2016-04-20 ; Times: 6
+	Date: 2016-04-16 ; Times: 11
+	Date: 2016-04-17 ; Times: 5
+	Date: 2016-04-25 ; Times: 1
+	Date: 2016-04-24 ; Times: 1
+	Date: 2016-04-12 ; Times: 1
+	Date: 2016-04-26 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "Camelidae" ; Times: 1
+	Query: "Gulo Gulo Ontario 1" ; Times: 1
+	Query: "55830" ; Times: 1
+	Query: "Gulo Gulo Ontario" ; Times: 10
+	Query: "Bison bison Ontario" ; Times: 5
+	Query: "57321" ; Times: 1
+	Query: "Gulo Gulo ONTARIO 1" ; Times: 2
+	Query: "smilodon" ; Times: 1
+	Query: "ROM 26214" ; Times: 1
+	Query: "Puma concolor Ontario 1" ; Times: 1
+	Query: "genus:dasypus class:mammalia" ; Times: 1
+	Query: "smilodon fatalis" ; Times: 1
+	Query: "hominid" ; Times: 1
+	Query: "Puma concolor ONTARIO 1" ; Times: 2
+	Query: "lutra lutra" ; Times: 3
+	Query: "Bison bison Ontario 1" ; Times: 1
+	Query: "order:artiodactyla class:Mammalia AND (juvenile)" ; Times: 2
+	Query: "Puma concolor Ontario" ; Times: 10
+	Query: "lutra lutra mappable:1" ; Times: 2
+	Query: "26214" ; Times: 1
+	Query: "smilodon gracilis" ; Times: 2
+	Query: "Bison bison Canada 1" ; Times: 1
+	Query: "catalognumber:63934" ; Times: 1
+	Query: "28423" ; Times: 1
+	Query: "family:Elephantidae (skull)" ; Times: 3
+	Query: "Taxidea taxus Ontario" ; Times: 5
+	Query: "Monachus tropicalis" ; Times: 1
+	Query: "Rom 39692" ; Times: 1
+	Query: "Rom 39851" ; Times: 1
+	Query: "Rangifer tarandus caribou Ontario" ; Times: 11
+	Query: "genus:dasypus class:mammalia country:&#34;USA&#34;" ; Times: 1
+	Query: "Bison bison Canada" ; Times: 2
+	Query: "class:Mammalia genus:dasypus" ; Times: 1
+	Query: "Rom 25087" ; Times: 1
+	Query: "type:specimen genus:Bison mappable:1" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Equus AND Island" ; Times: 1
+	Query: "mammal institutioncode:ROM" ; Times: 1
+	Query: "Urocyon cinereoargenteus Ontario" ; Times: 10
+	Query: "Sirenia" ; Times: 1
+	Query: "Rangifer tarandus caribou Ontario 1" ; Times: 6
+	Query: "206 ONTARIO 1" ; Times: 1
+	Query: "ROM 38002" ; Times: 1
+	Query: "Rom 39902" ; Times: 1
+	Query: "Rom 45288" ; Times: 3
+	Query: "ROM 36823" ; Times: 2
+	Query: "35651" ; Times: 1
+	Query: "Perissodactyla" ; Times: 1
+	Query: "ROM 34541" ; Times: 2
+	Query: "38758" ; Times: 1
+	Query: "panthera onca" ; Times: 5
+	Query: "(mammal) institutioncode:ROM" ; Times: 1
+	Query: "46748" ; Times: 1
+	Query: "Rom 36978" ; Times: 2
+	Query: "Rangifer tarandus caribou ONTARIO 1" ; Times: 2
+	Query: "98 ONTARIO 1" ; Times: 1
+	Query: "ROM 32276" ; Times: 1
+	Query: "Rom 39248" ; Times: 2
+	Query: "38875" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 1312 download events in this period)
+Total number of records downloaded: 2995
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: Spain ; Times: 2
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 19
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-13 ; Times: 1
+	Date: 2016-04-12 ; Times: 2
+	Date: 2016-04-14 ; Times: 2
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-18 ; Times: 2
+	Date: 2016-04-06 ; Times: 1
+	Date: 2016-04-05 ; Times: 2
+	Date: 2016-04-21 ; Times: 1
+	Date: 2016-04-20 ; Times: 2
+	Date: 2016-04-23 ; Times: 6
+	Date: 2016-04-08 ; Times: 2
+	Date: 2016-04-25 ; Times: 4
+	Date: 2016-04-24 ; Times: 2
+	Date: 2016-04-27 ; Times: 1
+	Date: 2016-04-26 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "lutra lutra mappable:1" ; Times: 1
+	Query: "specificepithet:floridana genus:Neotoma" ; Times: 2
+	Query: "Leopardus" ; Times: 1
+	Query: "type:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "genus:Spilogale" ; Times: 1
+	Query: "Geomyidae" ; Times: 1
+	Query: "tamias striatus" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "family:Elephantidae (skull)" ; Times: 1
+	Query: "mammals texas" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "mammals of texas" ; Times: 13
+	Query: "order:cetacea (orca)" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "genus:dasypus class:mammalia country:&#34;USA&#34;" ; Times: 1
+	Query: "Odocoileus" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "glaucomys" ; Times: 1
+
+
+End of report.
