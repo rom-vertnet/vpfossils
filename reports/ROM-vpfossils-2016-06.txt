@@ -1,0 +1,188 @@
+Report for Institution Code ROM, Resource vpfossils
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 132
+Number of records retrieved in searches: 1599
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 22
+	Country: France ; Times: 7
+	Country: United States ; Times: 93
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 1
+	Date: 2016-06-24 ; Times: 2
+	Date: 2016-06-23 ; Times: 13
+	Date: 2016-06-08 ; Times: 6
+	Date: 2016-06-21 ; Times: 26
+	Date: 2016-06-20 ; Times: 14
+	Date: 2016-06-05 ; Times: 6
+	Date: 2016-06-17 ; Times: 1
+	Date: 2016-06-14 ; Times: 6
+	Date: 2016-06-19 ; Times: 2
+	Date: 2016-06-01 ; Times: 19
+	Date: 2016-06-13 ; Times: 8
+	Date: 2016-06-03 ; Times: 3
+	Date: 2016-06-02 ; Times: 15
+	Date: 2016-06-18 ; Times: 1
+	Date: 2016-06-09 ; Times: 2
+	Date: 2016-06-06 ; Times: 1
+	Date: 2016-06-11 ; Times: 3
+	Date: 2016-06-07 ; Times: 1
+	Date: 2016-06-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "57529" ; Times: 1
+	Query: "49990" ; Times: 1
+	Query: "30753" ; Times: 1
+	Query: "Makapania" ; Times: 2
+	Query: "Ovis aries" ; Times: 2
+	Query: "catalognumber:35344" ; Times: 2
+	Query: "Cervus elaphus" ; Times: 3
+	Query: "genus:dasypus mappable:1 tissue:1" ; Times: 1
+	Query: "Prosynthetoceras" ; Times: 2
+	Query: "genus:bison" ; Times: 6
+	Query: "bison bison   " ; Times: 15
+	Query: "Cervalces" ; Times: 1
+	Query: "genus:dasypus country:&#34;Bolivia&#34;" ; Times: 4
+	Query: "61180" ; Times: 1
+	Query: "Giraffa jumae" ; Times: 1
+	Query: "catalognumber:59500" ; Times: 1
+	Query: "53440" ; Times: 1
+	Query: "genus:Bison" ; Times: 1
+	Query: "Tapirus" ; Times: 1
+	Query: "Pelorovis" ; Times: 1
+	Query: "Sus scrofa" ; Times: 3
+	Query: "Homo erectus" ; Times: 1
+	Query: "ROM 23980" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 1
+	Query: "59026" ; Times: 1
+	Query: "panthera onca" ; Times: 3
+	Query: "Axis axis" ; Times: 2
+	Query: "type:specimen specificepithet:leo genus:Panthera country:&#34;South Africa&#34;" ; Times: 1
+	Query: "equus" ; Times: 1
+	Query: "56134" ; Times: 1
+	Query: "Panthera onca" ; Times: 4
+	Query: "catalognumber:54126" ; Times: 1
+	Query: "Homo neanderthalensis" ; Times: 1
+	Query: "alces alces   " ; Times: 6
+	Query: "50388" ; Times: 1
+	Query: "Palaeotherium" ; Times: 2
+	Query: "Mammuthus jeffersonii" ; Times: 1
+	Query: "pelorovis" ; Times: 1
+	Query: "38590" ; Times: 1
+	Query: "38682" ; Times: 1
+	Query: "59028" ; Times: 1
+	Query: "54714" ; Times: 1
+	Query: "Homo rudolfensis" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "ROM 23299" ; Times: 2
+	Query: "61247" ; Times: 1
+	Query: "Bathyopsis" ; Times: 1
+	Query: "catalognumber:45180" ; Times: 1
+	Query: "(unsm)" ; Times: 1
+	Query: "ovis aries juvenile" ; Times: 1
+	Query: "39534" ; Times: 1
+	Query: "Protoceras" ; Times: 1
+	Query: "Barylambda" ; Times: 1
+	Query: "genus:canis" ; Times: 3
+	Query: "45816" ; Times: 1
+	Query: "Dasypus" ; Times: 1
+	Query: "Homo habilis" ; Times: 1
+	Query: "XT" ; Times: 1
+	Query: "Bos taurus juvenile" ; Times: 2
+	Query: "catalognumber:54126 year &gt;= 1950 year &lt;= 2000" ; Times: 1
+	Query: "canis lupus   " ; Times: 4
+	Query: "type:specimen (Cebidae) institutioncode:ROM" ; Times: 1
+	Query: "Panthera" ; Times: 1
+	Query: "Stegodon" ; Times: 1
+	Query: "Titanoides" ; Times: 1
+	Query: "Moeritherium" ; Times: 1
+	Query: "uintatherium" ; Times: 1
+	Query: "genus:dasypus mappable:1" ; Times: 2
+	Query: "Colodon" ; Times: 1
+	Query: "Prodinoceras" ; Times: 1
+	Query: "Phiomia" ; Times: 1
+	Query: "35723" ; Times: 1
+	Query: "type:specimen genus:smilodon institutioncode:ROM" ; Times: 1
+	Query: "34780" ; Times: 1
+	Query: "homo habilis" ; Times: 6
+	Query: "Procyon lotor 1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 60 (out of 1052 download events in this period)
+Total number of records downloaded: 8078
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 15
+	Country: Mexico ; Times: 39
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-15 ; Times: 8
+	Date: 2016-06-23 ; Times: 4
+	Date: 2016-06-08 ; Times: 3
+	Date: 2016-06-18 ; Times: 5
+	Date: 2016-06-20 ; Times: 1
+	Date: 2016-06-16 ; Times: 1
+	Date: 2016-06-17 ; Times: 6
+	Date: 2016-06-14 ; Times: 11
+	Date: 2016-06-19 ; Times: 2
+	Date: 2016-06-13 ; Times: 15
+	Date: 2016-06-03 ; Times: 3
+	Date: 2016-06-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "erethizon" ; Times: 1
+	Query: "leopardus" ; Times: 2
+	Query: "Sorex cinereus" ; Times: 2
+	Query: "Martes pennanti" ; Times: 1
+	Query: "ORCINUS ORCA" ; Times: 1
+	Query: "genus:dasypus mappable:1 tissue:1" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "panthera leo" ; Times: 5
+	Query: "VULPES VULPES" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "type:specimen country:&#34;Canada&#34; institutioncode:ROM" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 3
+	Query: "puma concolor" ; Times: 6
+	Query: "Loxodonta africana" ; Times: 2
+	Query: "Lepus americanus" ; Times: 1
+	Query: "microtus xanthognathus" ; Times: 2
+	Query: "Martes americana" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Hippopotamus amphibius" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:Microtus" ; Times: 1
+	Query: "panthera onca" ; Times: 3
+	Query: "canis latrans" ; Times: 3
+	Query: "Marmota monax" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 1
+	Query: "Sorex hoyi" ; Times: 1
+	Query: "MUSTELA frenata" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.
