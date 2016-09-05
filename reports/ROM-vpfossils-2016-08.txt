@@ -1,0 +1,105 @@
+Report for Institution Code ROM, Resource vpfossils
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 39
+Number of records retrieved in searches: 416
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 5
+	Country: France ; Times: 3
+	Country: United States ; Times: 26
+	Country: Germany ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 4
+	Date: 2016-08-11 ; Times: 2
+	Date: 2016-08-12 ; Times: 2
+	Date: 2016-08-15 ; Times: 7
+	Date: 2016-08-16 ; Times: 1
+	Date: 2016-08-17 ; Times: 2
+	Date: 2016-08-25 ; Times: 6
+	Date: 2016-08-19 ; Times: 9
+	Date: 2016-08-20 ; Times: 2
+	Date: 2016-08-30 ; Times: 3
+	Date: 2016-08-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "panthera onca mappable:1" ; Times: 1
+	Query: "Megantereon" ; Times: 1
+	Query: "Smilodon gracilis" ; Times: 1
+	Query: "catalognumber:57242 institutioncode:ROM" ; Times: 1
+	Query: "Armadillos" ; Times: 1
+	Query: "genus:Felis fossil:1" ; Times: 3
+	Query: "catalognumber:41513" ; Times: 1
+	Query: "catalognumber:65867 institutioncode:ROM" ; Times: 1
+	Query: "genus:dasypus institutioncode:ROM" ; Times: 3
+	Query: "specificepithet:macrodon genus:mustela stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "carpolestes" ; Times: 1
+	Query: "Deinotherium" ; Times: 2
+	Query: "catalognumber:59191 institutioncode:ROM" ; Times: 2
+	Query: "trichechus manatus" ; Times: 1
+	Query: "54750" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Homo sapiens" ; Times: 3
+	Query: "tapirus" ; Times: 2
+	Query: "Platybelodon" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "64030" ; Times: 1
+	Query: "catalognumber:37522 institutioncode:ROM" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "catalognumber:56103 institutioncode:ROM" ; Times: 1
+	Query: "dasypus" ; Times: 1
+	Query: "Moeritherium" ; Times: 1
+	Query: "lutra" ; Times: 1
+	Query: "catalognumber:25201" ; Times: 1
+	Query: "sechurae peru" ; Times: 1
+	Query: "catalognumber:48495 institutioncode:ROM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 924 download events in this period)
+Total number of records downloaded: 5971
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Unknown ; Times: 4
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-12 ; Times: 1
+	Date: 2016-08-28 ; Times: 2
+	Date: 2016-08-25 ; Times: 3
+	Date: 2016-08-24 ; Times: 2
+	Date: 2016-08-26 ; Times: 1
+	Date: 2016-08-20 ; Times: 1
+	Date: 2016-08-09 ; Times: 1
+	Date: 2016-08-22 ; Times: 1
+	Date: 2016-08-30 ; Times: 1
+	Date: 2016-08-31 ; Times: 1
+	Date: 2016-08-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ovis canadensis" ; Times: 1
+	Query: "genus:Equus fossil:1" ; Times: 1
+	Query: "microtus xanthognathus" ; Times: 1
+	Query: "lutra" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "canis lupus" ; Times: 2
+	Query: "Papio skull type:specimen" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "acinonyx jubatus" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "echimyidae" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Peru&#34;" ; Times: 1
+
+
+End of report.
