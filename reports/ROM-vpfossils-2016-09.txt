@@ -1,0 +1,69 @@
+Report for Institution Code ROM, Resource vpfossils
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 17
+Number of records retrieved in searches: 84
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: United Kingdom ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-07 ; Times: 3
+	Date: 2016-09-13 ; Times: 1
+	Date: 2016-09-12 ; Times: 1
+	Date: 2016-09-08 ; Times: 3
+	Date: 2016-09-05 ; Times: 1
+	Date: 2016-09-21 ; Times: 3
+	Date: 2016-09-01 ; Times: 3
+	Date: 2016-09-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "21963" ; Times: 1
+	Query: "Tapirus" ; Times: 1
+	Query: "stateprovince:&#34;Aguascalientes&#34; fossil:1" ; Times: 1
+	Query: "catalognumber:12498" ; Times: 1
+	Query: "&#34;dasypus&#34; mappable:1" ; Times: 2
+	Query: "Papio type:specimen fossil:1" ; Times: 1
+	Query: "genus:Dasypus mappable:1" ; Times: 1
+	Query: "Primate type:specimen fossil:1" ; Times: 1
+	Query: "Procyon lotor 1" ; Times: 3
+	Query: "trichechus manatus mappable:1" ; Times: 1
+	Query: "scientificname:&#34;smilodectes gracilis&#34; OR scientificname:&#34;platychoerops daubrei&#34; OR scientificname:&#34;bustylus marandati&#34; OR scientificname:&#34;afrodon gheerbranti&#34; OR scientificname:&#34;nasalis larvatus&#34; OR scientificname:&#34;miopithecus talapoin&#34; OR scientificname:&#34;galeopterus variegatus&#34; OR scientificname:&#34;leptadapis magnus&#34; OR scientificname:&#34;mandrillus sphinx&#34; OR scientificname:&#34;chiropotes satanas&#34; OR scientificname:&#34;cebus capucinus&#34; OR scientificname:&#34;cacajao calvus&#34; OR scientificname:&#34;callicebus moloch&#34; OR scientificname:&#34;ptilocercus lowii&#34; OR scientificname:&#34;adapis parisiensis&#34; OR scientificname:&#34;[not referred] [not referred]&#34; OR scientificname:&#34;titanoboa cerrejonensis&#34; OR scientificname:&#34;callithrix argentata&#34; OR scientificname:&#34;callithrix humeralifera&#34; OR scientificname:&#34;callithrix jacchus&#34; OR scientificname:&#34;callithrix sp.&#34; OR scientificname:&#34;cebus apella&#34; OR scientificname:&#34;calippus cerasinus&#34; OR scientificname:&#34;calippus elachistus&#34; OR scientificname:&#34;anchitherium clarencei&#34; OR scientificname:&#34;parahippus leonensis&#34; OR scientificname:&#34;parahippus barbouri&#34; OR scientificname:&#34;archaeohippus blackbergi&#34; OR scientificname:&#34;sifrhippus sandrae&#34; OR scientificname:&#34;nannippus peninsulatus&#34; OR scientificname:&#34;dinohippus mexicanus&#34;" ; Times: 1
+	Query: "locality:darling downs country:&#34;Australia&#34;" ; Times: 1
+	Query: "rom 26218" ; Times: 1
+	Query: "Dasypodidae continent:North America mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 811 download events in this period)
+Total number of records downloaded: 93
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-11 ; Times: 1
+	Date: 2016-09-08 ; Times: 1
+	Date: 2016-09-05 ; Times: 3
+	Date: 2016-09-23 ; Times: 2
+	Date: 2016-09-06 ; Times: 1
+	Date: 2016-09-07 ; Times: 1
+	Date: 2016-09-02 ; Times: 2
+	Date: 2016-09-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mustela frenata" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Nevada&#34;" ; Times: 6
+	Query: "dermoptera" ; Times: 2
+	Query: "Dermoptera" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+
+
+End of report.
