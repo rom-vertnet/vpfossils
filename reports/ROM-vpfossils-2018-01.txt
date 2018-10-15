@@ -1,0 +1,170 @@
+Report for Institution Code ROM, Resource vpfossils
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 159
+Number of records retrieved in searches: 944
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 42
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: Denmark ; Times: 74
+	Country: United Kingdom ; Times: 3
+	Country: Guatemala ; Times: 1
+	Country: China ; Times: 2
+	Country: Peru ; Times: 4
+	Country: Unknown ; Times: 8
+	Country: Bolivia ; Times: 9
+	Country: Russia ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-18 ; Times: 10
+	Date: 2018-01-31 ; Times: 1
+	Date: 2018-01-30 ; Times: 1
+	Date: 2018-01-13 ; Times: 5
+	Date: 2018-01-12 ; Times: 15
+	Date: 2018-01-15 ; Times: 34
+	Date: 2018-01-14 ; Times: 21
+	Date: 2018-01-17 ; Times: 6
+	Date: 2018-01-16 ; Times: 12
+	Date: 2018-01-02 ; Times: 2
+	Date: 2018-01-25 ; Times: 4
+	Date: 2018-01-08 ; Times: 2
+	Date: 2018-01-27 ; Times: 10
+	Date: 2018-01-28 ; Times: 2
+	Date: 2018-01-29 ; Times: 2
+	Date: 2018-01-24 ; Times: 3
+	Date: 2018-01-03 ; Times: 2
+	Date: 2018-01-26 ; Times: 1
+	Date: 2018-01-01 ; Times: 3
+	Date: 2018-01-20 ; Times: 1
+	Date: 2018-01-21 ; Times: 4
+	Date: 2018-01-22 ; Times: 4
+	Date: 2018-01-07 ; Times: 2
+	Date: 2018-01-05 ; Times: 1
+	Date: 2018-01-23 ; Times: 4
+	Date: 2018-01-06 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:56575 institutioncode:ROM" ; Times: 2
+	Query: "panthera onca mappable:1" ; Times: 1
+	Query: "rom 31476" ; Times: 4
+	Query: "Trichechus manatus" ; Times: 1
+	Query: "ziphius cavirostris" ; Times: 1
+	Query: "catalognumber:35341" ; Times: 1
+	Query: "Loxodonta africana africana" ; Times: 4
+	Query: "Elephas maximus" ; Times: 2
+	Query: "rom 36789" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 3
+	Query: "rom 75228" ; Times: 2
+	Query: "specificepithet:latrans genus:Canis country:&#34;USA&#34; mappable:1" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "29233" ; Times: 1
+	Query: "Dasypus mappable:1" ; Times: 4
+	Query: "48520" ; Times: 1
+	Query: "catalognumber:59912 institutioncode:ROM" ; Times: 1
+	Query: "(dasypus) mappable:1" ; Times: 2
+	Query: "Diceros bicornis" ; Times: 4
+	Query: "Elephas maximus maximus" ; Times: 2
+	Query: "Ziphius cavirostris stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "Equus africanus asinus" ; Times: 4
+	Query: "Rom 75228" ; Times: 2
+	Query: "order:rodentia class:mammalia 52109" ; Times: 1
+	Query: "Ceratotherium simum simum" ; Times: 3
+	Query: "gazella dorcas" ; Times: 1
+	Query: "catalognumber:32470 institutioncode:ROM" ; Times: 2
+	Query: "Ovibos moschatus" ; Times: 3
+	Query: "rom 12055" ; Times: 1
+	Query: "Sirenia mappable:1" ; Times: 1
+	Query: "rom 74900" ; Times: 3
+	Query: "Panthera tigris tigris" ; Times: 4
+	Query: "dasypus mappable:1" ; Times: 2
+	Query: "Dinictis" ; Times: 1
+	Query: "40439 institutioncode:ROM" ; Times: 1
+	Query: "Panthera leo atrox" ; Times: 3
+	Query: "Diceros bicornis bicornis" ; Times: 3
+	Query: "Loxodonta africana" ; Times: 12
+	Query: "Equus caballus" ; Times: 3
+	Query: "Ceratotherium simum" ; Times: 3
+	Query: "thylacosmilidae" ; Times: 1
+	Query: "Panthera tigris" ; Times: 3
+	Query: "&#34;Neochoerus pinckneyi&#34;" ; Times: 1
+	Query: "genus:Dasypus mappable:1" ; Times: 1
+	Query: "catalognumber:59922 institutioncode:ROM" ; Times: 2
+	Query: "Hell Creek Fm." ; Times: 1
+	Query: "rom 75033" ; Times: 2
+	Query: "Panthera onca" ; Times: 1
+	Query: "04161" ; Times: 1
+	Query: "Equus caballus caballus" ; Times: 2
+	Query: "Equus asinus" ; Times: 1
+	Query: "ROM-47843" ; Times: 1
+	Query: "51835" ; Times: 1
+	Query: "Ovibos moschatus moschatus" ; Times: 3
+	Query: "trichechidae vntype:specimen" ; Times: 8
+	Query: "37991 institutioncode:ROM" ; Times: 1
+	Query: "(Panthera onca) mappable:1" ; Times: 1
+	Query: "Panthera leo leo" ; Times: 3
+	Query: "class:mammalia stateprovince:&#34;Indiana&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "Panthera" ; Times: 2
+	Query: "&#34;panthera onca&#34; mappable:1" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "rom 75215" ; Times: 4
+	Query: "Equus africanus" ; Times: 4
+	Query: "42679" ; Times: 1
+	Query: "panthera onca" ; Times: 4
+	Query: "rom 49497" ; Times: 2
+	Query: "catalognumber:59916 institutioncode:ROM" ; Times: 2
+	Query: "Equus asinus africanus" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "Panthera leo" ; Times: 3
+	Query: "Equus asinus asinus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 1398 download events in this period)
+Total number of records downloaded: 1767
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+	Country: Italy ; Times: 4
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 1
+	Date: 2018-01-31 ; Times: 4
+	Date: 2018-01-30 ; Times: 4
+	Date: 2018-01-02 ; Times: 4
+	Date: 2018-01-25 ; Times: 7
+	Date: 2018-01-22 ; Times: 3
+	Date: 2018-01-23 ; Times: 5
+	Date: 2018-01-24 ; Times: 1
+	Date: 2018-01-04 ; Times: 1
+	Date: 2018-01-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "geomys pinetis" ; Times: 1
+	Query: "Epicyon" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "Dermoptera" ; Times: 2
+	Query: "Dama dama" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis mappable:1" ; Times: 1
+	Query: "vombatus ursinus" ; Times: 1
+	Query: "order:Didelphimorphia" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "order:Artiodactyla" ; Times: 2
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "genus:Odocoileus virginianus" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "dermoptera" ; Times: 13
+	Query: "Lepus alleni" ; Times: 1
+	Query: "Vombatus ursinus" ; Times: 1
+
+
+End of report.
