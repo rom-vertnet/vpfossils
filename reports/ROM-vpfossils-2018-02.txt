@@ -1,0 +1,212 @@
+Report for Institution Code ROM, Resource vpfossils
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 464
+Number of records retrieved in searches: 1130
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 11
+	Country: Brazil ; Times: 3
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Denmark ; Times: 370
+	Country: Czechia ; Times: 1
+	Country: United States ; Times: 33
+	Country: Colombia ; Times: 34
+	Country: Unknown ; Times: 3
+	Country: Japan ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 4
+	Date: 2018-02-20 ; Times: 3
+	Date: 2018-02-16 ; Times: 7
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-10 ; Times: 4
+	Date: 2018-02-24 ; Times: 3
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-13 ; Times: 1
+	Date: 2018-02-28 ; Times: 6
+	Date: 2018-02-18 ; Times: 1
+	Date: 2018-02-19 ; Times: 1
+	Date: 2018-02-04 ; Times: 358
+	Date: 2018-02-09 ; Times: 1
+	Date: 2018-02-27 ; Times: 12
+	Date: 2018-02-03 ; Times: 12
+	Date: 2018-02-25 ; Times: 1
+	Date: 2018-02-01 ; Times: 39
+	Date: 2018-02-23 ; Times: 3
+	Date: 2018-02-08 ; Times: 1
+	Date: 2018-02-06 ; Times: 4
+	Date: 2018-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:sechurae genus:Lycalopex" ; Times: 2
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Palaeobiology-Vertebrate Fossils:08595&#34;" ; Times: 10
+	Query: "Glyptotherium floridanum " ; Times: 1
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Palaeobiology-Vertebrate Fossils:49985&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Palaeobiology-Vertebrate Fossils:08581&#34;" ; Times: 10
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Palaeobiology-Vertebrate Fossils:08577&#34;" ; Times: 10
+	Query: "Elephas maximus maximus" ; Times: 2
+	Query: "trichechus manatus" ; Times: 1
+	Query: "Elephas maximus" ; Times: 2
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Palaeobiology-Vertebrate Fossils:08588&#34;" ; Times: 10
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Palaeobiology-Vertebrate Fossils:08567&#34;" ; Times: 10
+	Query: "scientificname:&#34;holmesina septentrionalis&#34;" ; Times: 1
+	Query: "35931" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 3
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Palaeobiology-Vertebrate Fossils:08579&#34;" ; Times: 10
+	Query: "Panthera onca" ; Times: 4
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Palaeobiology-Vertebrate Fossils:08574&#34;" ; Times: 10
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Palaeobiology-Vertebrate Fossils:08596&#34;" ; Times: 10
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Palaeobiology-Vertebrate Fossils:08580&#34;" ; Times: 10
+	Query: "scientificname:&#34;holmesina floridanus&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Palaeobiology-Vertebrate Fossils:03150&#34;" ; Times: 2
+	Query: "panthera onca" ; Times: 33
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Palaeobiology-Vertebrate Fossils:08566&#34;" ; Times: 10
+	Query: "Tapirus copei " ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "Equus asinus asinus" ; Times: 2
+	Query: "scientificname:&#34;nannippus peninsulatus&#34;" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 1
+	Query: "scientificname:&#34;nannippus aztecus&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Palaeobiology-Vertebrate Fossils:08571&#34;" ; Times: 10
+	Query: "Loxodonta africana africana" ; Times: 3
+	Query: "Equus africanus" ; Times: 2
+	Query: "scelidodon" ; Times: 2
+	Query: "Proscelidodon" ; Times: 1
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Palaeobiology-Vertebrate Fossils:08593&#34;" ; Times: 10
+	Query: "catalognumber:47050 institutioncode:ROM" ; Times: 2
+	Query: "Perissodactyla" ; Times: 2
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Palaeobiology-Vertebrate Fossils:08582&#34;" ; Times: 10
+	Query: "Equus africanus asinus" ; Times: 2
+	Query: "rom chiroptera type" ; Times: 1
+	Query: "catalognumber:23926" ; Times: 1
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Palaeobiology-Vertebrate Fossils:03533&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Palaeobiology-Vertebrate Fossils:08454&#34;" ; Times: 10
+	Query: "pocket gophers" ; Times: 1
+	Query: "catalognumber:47049 institutioncode:ROM" ; Times: 3
+	Query: "64210" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon institutioncode:ROM" ; Times: 1
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Palaeobiology-Vertebrate Fossils:08576&#34;" ; Times: 10
+	Query: "Equus asinus" ; Times: 2
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Palaeobiology-Vertebrate Fossils:08594&#34;" ; Times: 10
+	Query: "scientificname:&#34;mammut americanum&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Palaeobiology-Vertebrate Fossils:08589&#34;" ; Times: 10
+	Query: "Megalonyx jeffersonii " ; Times: 1
+	Query: "pectinatus" ; Times: 1
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Palaeobiology-Vertebrate Fossils:08573&#34;" ; Times: 10
+	Query: "63298" ; Times: 1
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Palaeobiology-Vertebrate Fossils:08585&#34;" ; Times: 10
+	Query: "lutra lutra" ; Times: 1
+	Query: "Lutra canadensis" ; Times: 1
+	Query: "Mammut americanum " ; Times: 1
+	Query: "50129" ; Times: 1
+	Query: "holmesina" ; Times: 1
+	Query: "Palaeolama mirifica " ; Times: 1
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Palaeobiology-Vertebrate Fossils:08570&#34;" ; Times: 10
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Palaeobiology-Vertebrate Fossils:08584&#34;" ; Times: 10
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Palaeobiology-Vertebrate Fossils:08592&#34;" ; Times: 10
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Palaeobiology-Vertebrate Fossils:08583&#34;" ; Times: 10
+	Query: "Ziphius cavirostris" ; Times: 1
+	Query: "(hoplophorus) institutioncode:ROM" ; Times: 3
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Palaeobiology-Vertebrate Fossils:08542&#34;" ; Times: 10
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Palaeobiology-Vertebrate Fossils:08578&#34;" ; Times: 10
+	Query: "Equus asinus africanus" ; Times: 2
+	Query: "scientificname:&#34;dasypus bellus&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Palaeobiology-Vertebrate Fossils:08575&#34;" ; Times: 10
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Palaeobiology-Vertebrate Fossils:08597&#34;" ; Times: 10
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Palaeobiology-Vertebrate Fossils:08569&#34;" ; Times: 10
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Palaeobiology-Vertebrate Fossils:08587&#34;" ; Times: 10
+	Query: "catalognumber:74868" ; Times: 1
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Palaeobiology-Vertebrate Fossils:08590&#34;" ; Times: 10
+	Query: "Lasiurus egregius" ; Times: 1
+	Query: "Dasypus bellus " ; Times: 1
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Palaeobiology-Vertebrate Fossils:49977&#34;" ; Times: 2
+	Query: "catalognumber:35240" ; Times: 1
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Palaeobiology-Vertebrate Fossils:08586&#34;" ; Times: 10
+	Query: "Mustela macrodon" ; Times: 2
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Palaeobiology-Vertebrate Fossils:08572&#34;" ; Times: 10
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Palaeobiology-Vertebrate Fossils:08568&#34;" ; Times: 10
+	Query: "Monachus tropicalis vntype:specimen" ; Times: 1
+	Query: "scientificname:&#34;australopithecus afarensis&#34;" ; Times: 1
+	Query: "Panthera onca mappable:1" ; Times: 1
+	Query: "Dama dama institutioncode:ROM" ; Times: 2
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Palaeobiology-Vertebrate Fossils:08591&#34;" ; Times: 10
+	Query: "Holmesina septentrionalis " ; Times: 1
+	Query: "75244" ; Times: 1
+	Query: "hoplophorus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 46 (out of 1892 download events in this period)
+Total number of records downloaded: 113354
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 36
+	Country: Colombia ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 2
+	Date: 2018-02-15 ; Times: 9
+	Date: 2018-02-16 ; Times: 7
+	Date: 2018-02-22 ; Times: 2
+	Date: 2018-02-25 ; Times: 1
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-20 ; Times: 5
+	Date: 2018-02-28 ; Times: 1
+	Date: 2018-02-13 ; Times: 1
+	Date: 2018-02-01 ; Times: 16
+	Date: 2018-02-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia stateprovince:&#34;South Dakota&#34; country:&#34;U.S.A&#34;" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Wyoming&#34; country:&#34;U.S.A&#34;" ; Times: 2
+	Query: "genus:castor" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "puma" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;Saskatchewan&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Colorado&#34; country:&#34;U.S.A&#34;" ; Times: 2
+	Query: "tremarctos" ; Times: 1
+	Query: "Cynomys ludovicianus" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "Bassariscus" ; Times: 2
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Microtus pinetorum" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "&#34;Chesapeake Bay&#34;" ; Times: 1
+	Query: "myrmecophaga" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Montana&#34; country:&#34;U.S.A&#34;" ; Times: 1
+	Query: "Geomys pinetis" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;Utah&#34; country:&#34;U.S.A&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Alberta&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "county:&#34;Bexar&#34; stateprovince:&#34;Texas&#34; isfossil:1" ; Times: 1
+	Query: "Canis lupus" ; Times: 3
+	Query: "nothrotheriops" ; Times: 1
+	Query: "class:Mammalia institutioncode:ROM" ; Times: 2
+	Query: "Nesokia" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Idaho&#34; country:&#34;U.S.A&#34;" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Nevada&#34; country:&#34;U.S.A&#34;" ; Times: 1
+
+
+End of report.
