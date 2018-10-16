@@ -1,0 +1,120 @@
+Report for Institution Code ROM, Resource vpfossils
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 68
+Number of records retrieved in searches: 727
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 12
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 11
+	Country: India ; Times: 1
+	Country: United States ; Times: 30
+	Country: Austria ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Puerto Rico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-15 ; Times: 20
+	Date: 2018-05-17 ; Times: 4
+	Date: 2018-05-16 ; Times: 3
+	Date: 2018-05-02 ; Times: 2
+	Date: 2018-05-03 ; Times: 1
+	Date: 2018-05-01 ; Times: 1
+	Date: 2018-05-08 ; Times: 3
+	Date: 2018-05-28 ; Times: 3
+	Date: 2018-05-29 ; Times: 5
+	Date: 2018-05-10 ; Times: 4
+	Date: 2018-05-21 ; Times: 1
+	Date: 2018-05-23 ; Times: 8
+	Date: 2018-05-24 ; Times: 1
+	Date: 2018-05-31 ; Times: 2
+	Date: 2018-05-30 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "AL 3054" ; Times: 1
+	Query: "rom 28757" ; Times: 1
+	Query: "dicrocerus" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "genus:ursus institutioncode:ROM" ; Times: 9
+	Query: "rom 28955" ; Times: 1
+	Query: "rom 41463" ; Times: 2
+	Query: "catalognumber:47562" ; Times: 1
+	Query: "rom 39802" ; Times: 1
+	Query: "order:Carnivora locality:Medicine Hat institutioncode:ROM" ; Times: 1
+	Query: "rom 27276" ; Times: 1
+	Query: "rom 38005" ; Times: 1
+	Query: "rom 27279" ; Times: 1
+	Query: "rom 38665" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "24432" ; Times: 1
+	Query: "Lycalopex sechurae" ; Times: 3
+	Query: "rom 26876" ; Times: 1
+	Query: "genus:Dicrocerus class:Mammalia" ; Times: 1
+	Query: "Panthera onca" ; Times: 9
+	Query: "jmv" ; Times: 2
+	Query: "Lutra lutra" ; Times: 2
+	Query: "rom 41476" ; Times: 1
+	Query: "rom 38526" ; Times: 1
+	Query: "rom 32597" ; Times: 1
+	Query: "fossils" ; Times: 3
+	Query: "rom 38286" ; Times: 1
+	Query: "44963" ; Times: 1
+	Query: "39454" ; Times: 1
+	Query: "rom 34429" ; Times: 1
+	Query: "Adapis" ; Times: 2
+	Query: "rom 37985" ; Times: 1
+	Query: "Smilodon medicine hat" ; Times: 1
+	Query: "50785" ; Times: 2
+	Query: "rom 39909" ; Times: 1
+	Query: "specificepithet:onca genus:panthera" ; Times: 1
+	Query: "panthera onca" ; Times: 3
+	Query: "rom 37983" ; Times: 1
+	Query: "locality:Medicine Hat institutioncode:ROM" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1178 download events in this period)
+Total number of records downloaded: 182
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-07 ; Times: 4
+	Date: 2018-05-16 ; Times: 1
+	Date: 2018-05-02 ; Times: 1
+	Date: 2018-05-18 ; Times: 2
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-29 ; Times: 1
+	Date: 2018-05-31 ; Times: 1
+	Date: 2018-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:ursus institutioncode:ROM" ; Times: 1
+	Query: "class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Trichosurus vulpecula" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "genus:arctodus" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "vntype:specimen family:Sciuridae (miocene) isfossil:1" ; Times: 1
+	Query: "Macropus rufogriseus" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+
+
+End of report.
