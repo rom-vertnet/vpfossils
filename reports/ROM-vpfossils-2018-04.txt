@@ -1,0 +1,125 @@
+Report for Institution Code ROM, Resource vpfossils
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 83
+Number of records retrieved in searches: 779
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 63
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 4
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-01 ; Times: 7
+	Date: 2018-04-12 ; Times: 3
+	Date: 2018-04-10 ; Times: 13
+	Date: 2018-04-02 ; Times: 5
+	Date: 2018-04-05 ; Times: 18
+	Date: 2018-04-17 ; Times: 1
+	Date: 2018-04-07 ; Times: 2
+	Date: 2018-04-15 ; Times: 1
+	Date: 2018-04-09 ; Times: 1
+	Date: 2018-04-08 ; Times: 5
+	Date: 2018-04-18 ; Times: 1
+	Date: 2018-04-16 ; Times: 3
+	Date: 2018-04-29 ; Times: 1
+	Date: 2018-04-11 ; Times: 4
+	Date: 2018-04-23 ; Times: 11
+	Date: 2018-04-22 ; Times: 2
+	Date: 2018-04-20 ; Times: 1
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-24 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "trichechus manatus manatus" ; Times: 3
+	Query: "family:Elephantidae skull" ; Times: 2
+	Query: "58831" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 1
+	Query: "genus:Panthera " ; Times: 1
+	Query: "genus:bison mappable:1" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "Trichechus" ; Times: 1
+	Query: "75314" ; Times: 1
+	Query: "genus:bootherium" ; Times: 1
+	Query: "castoroides" ; Times: 1
+	Query: "Florida bass" ; Times: 2
+	Query: "smilodon gracilis" ; Times: 2
+	Query: "Lutra canadensis" ; Times: 1
+	Query: "75309" ; Times: 1
+	Query: "trichechus manatus" ; Times: 4
+	Query: "trichechus" ; Times: 1
+	Query: "genus:bison" ; Times: 1
+	Query: "35872" ; Times: 1
+	Query: "genus:Holmesina specificepithet:septentrionalis mappable:1" ; Times: 1
+	Query: "genus:Dasypus specificepithet:bellus mappable:1" ; Times: 1
+	Query: "axis axis cervidae" ; Times: 1
+	Query: "Panthera onca mappable:1" ; Times: 3
+	Query: "Panthera onca" ; Times: 1
+	Query: "75025" ; Times: 1
+	Query: "monachus tropicalis" ; Times: 1
+	Query: "symbos" ; Times: 2
+	Query: "genus:Hydrochoerus specificepithet:holmesi mappable:1" ; Times: 1
+	Query: "36218" ; Times: 1
+	Query: "genus:Megalonyx specificepithet:jeffersonii mappable:1" ; Times: 1
+	Query: "bootherium" ; Times: 1
+	Query: "scientificname:Panthera onca " ; Times: 17
+	Query: "Trichechus manatus manatus" ; Times: 1
+	Query: "Sus Argentina" ; Times: 1
+	Query: "genus:Neochoerus specificepithet:pinckneyi mappable:1" ; Times: 1
+	Query: "genus:cervalces" ; Times: 1
+	Query: "genus:Panthera specificepithet:onca mappable:1" ; Times: 1
+	Query: "genus:Canis specificepithet:dirus mappable:1" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Guayas&#34; country:&#34;Ecuador&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus isfossil:1" ; Times: 1
+	Query: "scientificname:panthera onca " ; Times: 5
+	Query: "genus:Trichechus specificepithet:manatus mappable:1" ; Times: 2
+	Query: "72648" ; Times: 1
+	Query: "genus:Nothrotheriops specificepithet:shastensis mappable:1" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "genus:Eremotherium specificepithet:laurillardi mappable:1" ; Times: 1
+	Query: "genus:Glyptotherium specificepithet:floridanum mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1359 download events in this period)
+Total number of records downloaded: 414
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-03 ; Times: 2
+	Date: 2018-04-02 ; Times: 1
+	Date: 2018-04-16 ; Times: 1
+	Date: 2018-04-17 ; Times: 1
+	Date: 2018-04-07 ; Times: 2
+	Date: 2018-04-09 ; Times: 1
+	Date: 2018-04-23 ; Times: 1
+	Date: 2018-04-22 ; Times: 1
+	Date: 2018-04-25 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Rangifer tarandus caribou" ; Times: 2
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 2
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "genus:Tapirus" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "genus:bison mappable:1" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "vntype:specimen family:Cervidae hastissue:1" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+
+
+End of report.
