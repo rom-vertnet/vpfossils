@@ -1,0 +1,247 @@
+Report for Institution Code ROM, Resource vpfossils
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 684
+Number of records retrieved in searches: 6682
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 3
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 13
+	Country: Denmark ; Times: 26
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 4
+	Country: Unknown ; Times: 6
+	Country: Argentina ; Times: 2
+	Country: United States ; Times: 609
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 17
+	Date: 2018-03-07 ; Times: 26
+	Date: 2018-03-16 ; Times: 2
+	Date: 2018-03-15 ; Times: 1
+	Date: 2018-03-13 ; Times: 2
+	Date: 2018-03-12 ; Times: 5
+	Date: 2018-03-27 ; Times: 105
+	Date: 2018-03-30 ; Times: 3
+	Date: 2018-03-19 ; Times: 4
+	Date: 2018-03-01 ; Times: 35
+	Date: 2018-03-02 ; Times: 81
+	Date: 2018-03-03 ; Times: 7
+	Date: 2018-03-05 ; Times: 99
+	Date: 2018-03-28 ; Times: 16
+	Date: 2018-03-29 ; Times: 30
+	Date: 2018-03-26 ; Times: 104
+	Date: 2018-03-09 ; Times: 1
+	Date: 2018-03-25 ; Times: 31
+	Date: 2018-03-22 ; Times: 4
+	Date: 2018-03-23 ; Times: 8
+	Date: 2018-03-20 ; Times: 87
+	Date: 2018-03-21 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "Diprotodon" ; Times: 1
+	Query: "genus:Homo specificepithet:sapiens" ; Times: 5
+	Query: "genus:Elephas specificepithet:recki" ; Times: 5
+	Query: "genus:Crocuta specificepithet:crocuta" ; Times: 2
+	Query: "genus:Pronothodectes specificepithet:matthewi" ; Times: 7
+	Query: "specificepithet:tridactyla genus:Myrmecophaga" ; Times: 1
+	Query: "35919" ; Times: 1
+	Query: "genus:Cantius specificepithet:mckennai" ; Times: 7
+	Query: "genus:Icaronycteris specificepithet:index" ; Times: 7
+	Query: "genus:Propliopithecus specificepithet:(?)" ; Times: 5
+	Query: "genus:Teilhardina specificepithet:americana" ; Times: 11
+	Query: "genus:Cantius specificepithet:ralstoni" ; Times: 7
+	Query: "genus:Ceratotherium specificepithet:simum" ; Times: 5
+	Query: "genus:Lasiorhinus specificepithet:latifrons" ; Times: 2
+	Query: "ROM 31062" ; Times: 1
+	Query: "genus:Smilodectes specificepithet:gracilis" ; Times: 7
+	Query: "genus:Paramys specificepithet:copei" ; Times: 2
+	Query: "genus:Parapithecus specificepithet:grangeri" ; Times: 8
+	Query: "genus:Apidium specificepithet:moustafi" ; Times: 5
+	Query: "catalognumber:63511" ; Times: 2
+	Query: "trichechus" ; Times: 3
+	Query: "genus:Nannippus specificepithet:aztecus" ; Times: 5
+	Query: "genus:Homo specificepithet:erectus" ; Times: 9
+	Query: "genus:Holmesina specificepithet:septentrionalis" ; Times: 5
+	Query: "Panthera onca" ; Times: 11
+	Query: "genus:Bos specificepithet:taurus" ; Times: 5
+	Query: "genus:Didelphodus specificepithet:absarokae" ; Times: 6
+	Query: "catalognumber:43401" ; Times: 1
+	Query: "21570" ; Times: 1
+	Query: "genus:Palaeotherium specificepithet:magnum" ; Times: 6
+	Query: "genus:Apidium specificepithet:phiomense" ; Times: 7
+	Query: "genus:Tetonius specificepithet:homunculus" ; Times: 7
+	Query: "genus:Puma specificepithet:concolor" ; Times: 2
+	Query: "panthera onca" ; Times: 4
+	Query: "genus:Sivapithecus specificepithet:indicus" ; Times: 6
+	Query: "genus:Miniochoerus specificepithet:gracilis" ; Times: 5
+	Query: "specificepithet:pardalis genus:Leopardus" ; Times: 1
+	Query: "gazella egypt" ; Times: 4
+	Query: "genus:Dasypus specificepithet:bellus" ; Times: 5
+	Query: "genus:Acritoparamys specificepithet:atwateri" ; Times: 5
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Palaeobiology-Vertebrate Fossils:28474&#34;" ; Times: 4
+	Query: "genus:Acinonyx specificepithet:jubatus" ; Times: 5
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 8
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Palaeobiology-Vertebrate Fossils:28473&#34;" ; Times: 4
+	Query: "genus:Machairodus" ; Times: 3
+	Query: "family:Elephantidae skull" ; Times: 1
+	Query: "lasiorhinus krefftii" ; Times: 2
+	Query: "genus:Tetonius specificepithet:matthewi" ; Times: 5
+	Query: "genus:Rooneyia specificepithet:viejaensis" ; Times: 5
+	Query: "genus:Paromomys specificepithet:depressidens" ; Times: 6
+	Query: "genus:Propliopithecus specificepithet:chirobates" ; Times: 5
+	Query: "genus:Holmesina specificepithet:floridanus" ; Times: 5
+	Query: "genus:Hyrachyus specificepithet:modestus" ; Times: 5
+	Query: "genus:Saghatherium specificepithet:bowni" ; Times: 5
+	Query: "genus:Hyaena specificepithet:hyaena" ; Times: 5
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Palaeobiology-Vertebrate Fossils:01194&#34;" ; Times: 4
+	Query: "genus:Cervalces specificepithet:scotti" ; Times: 5
+	Query: "genus:Cantius specificepithet:abditus" ; Times: 7
+	Query: "genus:Paromomys specificepithet:maturus" ; Times: 6
+	Query: "genus:Panthera" ; Times: 2
+	Query: "specificepithet:nigripes genus:mustela year&gt;=1900" ; Times: 1
+	Query: "genus:Plesiadapis specificepithet:tricuspidens" ; Times: 6
+	Query: "genus:Oligopithecus specificepithet:savagei" ; Times: 5
+	Query: "genus:Hemiacodon specificepithet:gracilis" ; Times: 7
+	Query: "genus:Panthera specificepithet:leo" ; Times: 2
+	Query: "genus:Homotherium specificepithet:serum" ; Times: 5
+	Query: "genus:Omomys specificepithet:carteri" ; Times: 8
+	Query: "genus:Cantius specificepithet:frugivorus" ; Times: 7
+	Query: "catalognumber:47049 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis institutioncode:ROM" ; Times: 1
+	Query: "genus:Australopithecus specificepithet:africanus" ; Times: 6
+	Query: "catalognumber:27577" ; Times: 1
+	Query: "genus:Smilodon specificepithet:fatalis" ; Times: 5
+	Query: "genus:Diceros specificepithet:bicornis" ; Times: 2
+	Query: "genus:Metridiochoerus specificepithet:andrewsi" ; Times: 9
+	Query: "genus:Anchitherium specificepithet:clarencei" ; Times: 5
+	Query: "specificepithet:nigripes genus:mustela" ; Times: 1
+	Query: "genus:undet." ; Times: 3
+	Query: "genus:Mammut specificepithet:americanum" ; Times: 5
+	Query: "Camelidae" ; Times: 3
+	Query: "genus:Pronothodectes specificepithet:jepi" ; Times: 7
+	Query: "genus:Ischyromys specificepithet:typus" ; Times: 5
+	Query: "genus:Eptesicus specificepithet:andinus" ; Times: 6
+	Query: "genus:Palaeolagus specificepithet:haydeni" ; Times: 5
+	Query: "Ovibos moschatus" ; Times: 5
+	Query: "genus:Lophiodon specificepithet:lautricense" ; Times: 6
+	Query: "(didelphis) institutioncode:ROM" ; Times: 1
+	Query: "genus:Parapithecus specificepithet:fraasi" ; Times: 5
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "genus:Dendropithecus" ; Times: 2
+	Query: "genus:Caenopithecus specificepithet:lemuroides" ; Times: 5
+	Query: "genus:Onychonycteris specificepithet:finneyi" ; Times: 7
+	Query: "genus:Pondaungia" ; Times: 3
+	Query: "specificepithet:nigripes genus:Mustela" ; Times: 1
+	Query: "genus:Phenacolemur specificepithet:pagei" ; Times: 5
+	Query: "genus:Phenacolemur specificepithet:jepseni" ; Times: 5
+	Query: "genus:Ourayia specificepithet:uintensis" ; Times: 7
+	Query: "genus:Canis specificepithet:dirus" ; Times: 5
+	Query: "genus:Absarokius specificepithet:abbotti" ; Times: 6
+	Query: "genus:Homo specificepithet:habilis" ; Times: 9
+	Query: "genus:Orcinus specificepithet:orca" ; Times: 2
+	Query: "Ovibos moschatus moschatus" ; Times: 5
+	Query: "genus:Branisella specificepithet:boliviana" ; Times: 5
+	Query: "genus:Hesperocyon specificepithet:gregarius" ; Times: 5
+	Query: "genus:Nesokia specificepithet:indica" ; Times: 2
+	Query: "catalognumber:47039 institutioncode:ROM" ; Times: 2
+	Query: "genus:Phenacolemur specificepithet:praecox" ; Times: 5
+	Query: "genus:Australopithecus specificepithet:afarensis" ; Times: 6
+	Query: "gbifdatasetid:e0dbf705-cec4-4dce-a152-fc4ebe14674d" ; Times: 1
+	Query: "genus:Tapirus specificepithet:polkensis" ; Times: 5
+	Query: "catalognumber:26157" ; Times: 1
+	Query: "genus:Dendropithecus specificepithet:macinnesi" ; Times: 2
+	Query: "genus:Antidorcas specificepithet:recki" ; Times: 6
+	Query: "genus:Nannippus specificepithet:peninsulatus" ; Times: 5
+	Query: "smilodon" ; Times: 3
+	Query: "genus:Apatemys specificepithet:chardini" ; Times: 5
+	Query: "genus:Lasiorhinus specificepithet:krefftii" ; Times: 5
+	Query: "genus:Monachus" ; Times: 1
+	Query: "genus:Notharctus specificepithet:tenebrosus" ; Times: 10
+	Query: "genus:Teilhardina specificepithet:belgica" ; Times: 9
+	Query: "genus:Carpolestes specificepithet:dubius" ; Times: 9
+	Query: "Equidae" ; Times: 4
+	Query: "genus:Leopardus specificepithet:pardalis" ; Times: 2
+	Query: "genus:Eremotherium specificepithet:eomigrans" ; Times: 2
+	Query: "genus:Plesiadapis specificepithet:fodinatus" ; Times: 6
+	Query: "Panthera tigris " ; Times: 1
+	Query: "scientificname:mustela nigripes" ; Times: 2
+	Query: "genus:Gomphotherium" ; Times: 3
+	Query: "specificepithet:retusus family:Dasypodidae" ; Times: 1
+	Query: "genus:Plesiadapis specificepithet:anceps" ; Times: 6
+	Query: "specificepithet:latrans genus:Canis institutioncode:ROM" ; Times: 1
+	Query: "genus:Plagiolophus specificepithet:annectens" ; Times: 6
+	Query: "genus:Nannodectes specificepithet:gidleyi" ; Times: 5
+	Query: "genus:Washakius specificepithet:insignis" ; Times: 7
+	Query: "iptrecordid:&#34;URI:catalog:ROM:Palaeobiology-Vertebrate Fossils:72957&#34;" ; Times: 4
+	Query: "genus:Equus specificepithet:africanus" ; Times: 5
+	Query: "genus:Shoshonius specificepithet:cooperi" ; Times: 8
+	Query: "genus:Adapis specificepithet:parisiensis" ; Times: 11
+	Query: "genus:Anemorhysis specificepithet:pearcei" ; Times: 6
+	Query: "genus:Notharctus specificepithet:venticolus" ; Times: 2
+	Query: "scientificname:Panthera onca " ; Times: 1
+	Query: "genus:Cantius specificepithet:trigonodus" ; Times: 7
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 3
+	Query: "genus:Nannodectes specificepithet:simpsoni" ; Times: 5
+	Query: "genus:Notharctus  specificepithet:venticolus" ; Times: 4
+	Query: "genus:Notharctus specificepithet:robustior" ; Times: 8
+	Query: "genus:Arctodus specificepithet:simus" ; Times: 5
+	Query: "genus:Didelphodon specificepithet:vorax" ; Times: 2
+	Query: "genus:Merycoidodon specificepithet:culbertsoni" ; Times: 2
+	Query: "genus:Neohipparion specificepithet:eurystyle" ; Times: 5
+	Query: "specificepithet:insidiosus" ; Times: 1
+	Query: "specificepithet:onca " ; Times: 1
+	Query: "specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "genus:Arctotherium" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1284 download events in this period)
+Total number of records downloaded: 441
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 6
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-02 ; Times: 1
+	Date: 2018-03-15 ; Times: 1
+	Date: 2018-03-14 ; Times: 2
+	Date: 2018-03-05 ; Times: 1
+	Date: 2018-03-06 ; Times: 3
+	Date: 2018-03-29 ; Times: 2
+	Date: 2018-03-09 ; Times: 1
+	Date: 2018-03-23 ; Times: 1
+	Date: 2018-03-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "(didelphis) institutioncode:ROM" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "lasiorhinus krefftii" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "family:Soricidae country:&#34;USA&#34;" ; Times: 1
+	Query: "genus:Monachus" ; Times: 1
+	Query: "gazella egypt" ; Times: 2
+	Query: "Panthera onca" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "family:Felidae" ; Times: 1
+	Query: "order:Rodentia country:&#34;USA&#34;" ; Times: 1
+	Query: "Hippopotamus amphibius" ; Times: 1
+
+
+End of report.
