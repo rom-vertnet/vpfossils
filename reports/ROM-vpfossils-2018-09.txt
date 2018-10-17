@@ -1,0 +1,201 @@
+Report for Institution Code ROM, Resource vpfossils
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 147
+Number of records retrieved in searches: 872
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 12
+	Country: Singapore ; Times: 1
+	Country: Iceland ; Times: 3
+	Country: Mexico ; Times: 99
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: United States ; Times: 22
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 5
+	Date: 2018-09-04 ; Times: 2
+	Date: 2018-09-10 ; Times: 1
+	Date: 2018-09-15 ; Times: 1
+	Date: 2018-09-30 ; Times: 3
+	Date: 2018-09-05 ; Times: 9
+	Date: 2018-09-24 ; Times: 4
+	Date: 2018-09-25 ; Times: 2
+	Date: 2018-09-13 ; Times: 23
+	Date: 2018-09-12 ; Times: 6
+	Date: 2018-09-23 ; Times: 1
+	Date: 2018-09-07 ; Times: 2
+	Date: 2018-09-17 ; Times: 2
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-01 ; Times: 1
+	Date: 2018-09-06 ; Times: 1
+	Date: 2018-09-09 ; Times: 4
+	Date: 2018-09-28 ; Times: 2
+	Date: 2018-09-29 ; Times: 1
+	Date: 2018-09-14 ; Times: 76
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:05301 institutioncode:ROM isfossil:1" ; Times: 2
+	Query: "catalognumber:05279 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05272 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05445 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05486 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05382 institutioncode:ROM isfossil:1" ; Times: 2
+	Query: "catalognumber:05302 institutioncode:ROM isfossil:1" ; Times: 2
+	Query: "catalognumber:05472 institutioncode:ROM" ; Times: 2
+	Query: "Prosynthetoceras francisi" ; Times: 1
+	Query: "catalognumber:05468 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05384 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05438 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05528 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "family:Equidae continent:North America basisofrecord:FossilSpecimen isfossil:1" ; Times: 2
+	Query: "catalognumber:05460 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05385 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05463 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "Panthera onca" ; Times: 3
+	Query: "catalognumber:05472 institutioncode:ROM isfossil:1" ; Times: 2
+	Query: "catalognumber:05407 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "ROM 40103" ; Times: 3
+	Query: "catalognumber:05303 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "Mammuthus meridionalis" ; Times: 1
+	Query: "catalognumber:05477 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "genus:Prosciurus  specificepithet:relictus" ; Times: 1
+	Query: "panthera onca" ; Times: 14
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "catalognumber:22671 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:onca genus:panthera year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:sinensis genus:Rhizomys" ; Times: 2
+	Query: "catalognumber:05277 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "(Ischyromys) institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05271 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05474 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05380 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05437 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05379 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05473 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05297 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05268 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05553 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "ROM 70874" ; Times: 1
+	Query: "catalognumber:05261 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05535 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05443 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05461 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05269 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05464 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05446 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05415 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05293 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05270 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05416 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05409 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05388 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05435 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "genus:Lophiodon specificepithet:lautricense" ; Times: 1
+	Query: "catalognumber:05550 institutioncode:ROM isfossil:1" ; Times: 2
+	Query: "catalognumber:05410 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05436 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "specificepithet:nigripes genus:Mustela" ; Times: 3
+	Query: "catalognumber:05480 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05265 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05246 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "genus:Antidorcas specificepithet:recki" ; Times: 1
+	Query: "catalognumber:05420 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05412 institutioncode:ROM" ; Times: 1
+	Query: "genus:machaeroides" ; Times: 1
+	Query: "genus:canis institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus isfossil:1" ; Times: 1
+	Query: "catalognumber:05244 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05465 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "mammuthus columbi" ; Times: 1
+	Query: "catalognumber:05254 institutioncode:ROM isfossil:1" ; Times: 2
+	Query: "gbifdatasetid:e0dbf705-cec4-4dce-a152-fc4ebe14674d" ; Times: 4
+	Query: "genus:Dendropithecus specificepithet:macinnesi" ; Times: 1
+	Query: "catalognumber:05549 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05373 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05291 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05276 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05440 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05552 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05247 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05499 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05300 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05414 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05253 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05536 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:23025 institutioncode:ROM" ; Times: 2
+	Query: "catalognumber:05406 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05551 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "Cervalces scotti" ; Times: 3
+	Query: "locality:Corinto" ; Times: 1
+	Query: "catalognumber:05258 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:59437" ; Times: 1
+	Query: "catalognumber:05439 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05386 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05387 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "catalognumber:05252 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 1
+	Query: "genus:Coelodonta specificepithet:antiquitatis" ; Times: 1
+	Query: "locality:Galt Island collectioncode:Vertebrate Palaeontology institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:05257 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "specificepithet:tigris genus:Panthera institutioncode:ROM" ; Times: 1
+	Query: "canis royal ontario museum" ; Times: 1
+	Query: "catalognumber:05412 institutioncode:ROM isfossil:1" ; Times: 2
+	Query: "catalognumber:05459 institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "Lutra lutra" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 846 download events in this period)
+Total number of records downloaded: 2550
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Canada ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-05 ; Times: 1
+	Date: 2018-09-13 ; Times: 2
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-26 ; Times: 2
+	Date: 2018-09-27 ; Times: 1
+	Date: 2018-09-06 ; Times: 3
+	Date: 2018-09-07 ; Times: 4
+	Date: 2018-09-17 ; Times: 1
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-15 ; Times: 1
+	Date: 2018-09-18 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "balaenoptera acutorostrata" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "family:Rhinocerotidae continent:North America isfossil:1" ; Times: 1
+	Query: "specificepithet:onca genus:panthera year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "Wolverine" ; Times: 3
+	Query: "class:mammalia county:&#34;clark&#34; stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus isfossil:1" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma mappable:1" ; Times: 1
+	Query: "county:&#34;pennington&#34; stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "genus:canis preparations:skull institutioncode:ROM" ; Times: 1
+	Query: "class:Mammalia (baculum)" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "grizzly bear" ; Times: 3
+
+
+End of report.
