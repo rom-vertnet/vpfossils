@@ -1,0 +1,125 @@
+Report for Institution Code ROM, Resource vpfossils
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 55
+Number of records retrieved in searches: 316
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 24
+	Country: Mexico ; Times: 14
+	Country: El Salvador ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 10
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-02 ; Times: 9
+	Date: 2018-12-03 ; Times: 1
+	Date: 2018-12-20 ; Times: 1
+	Date: 2018-12-06 ; Times: 4
+	Date: 2018-12-22 ; Times: 1
+	Date: 2018-12-23 ; Times: 1
+	Date: 2018-12-24 ; Times: 1
+	Date: 2018-12-31 ; Times: 3
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-04 ; Times: 2
+	Date: 2018-12-05 ; Times: 7
+	Date: 2018-12-11 ; Times: 5
+	Date: 2018-12-10 ; Times: 4
+	Date: 2018-12-13 ; Times: 14
+	Date: 2018-12-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Hypertragulidae north america" ; Times: 9
+	Query: "order:proboscidea country:&#34;kenya&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus country:&#34;canada&#34;" ; Times: 1
+	Query: "46722" ; Times: 1
+	Query: "order:primates class:mammalia country:&#34;kenya&#34; institutioncode:ROM" ; Times: 1
+	Query: "order:artiodactyla class:mammalia country:&#34;kenya&#34; institutioncode:ROM" ; Times: 1
+	Query: "45926" ; Times: 3
+	Query: "ROM 54396" ; Times: 1
+	Query: "ROM 45289" ; Times: 2
+	Query: "ROM 54392" ; Times: 1
+	Query: "ROM 54393" ; Times: 1
+	Query: "ROM 54391" ; Times: 2
+	Query: "45407" ; Times: 1
+	Query: "Puma concolor mappable:1" ; Times: 1
+	Query: "ROM 54398" ; Times: 1
+	Query: "ROM 54399" ; Times: 1
+	Query: "adapis" ; Times: 1
+	Query: "specificepithet:concolor genus:puma country:&#34;usa&#34;" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "specificepithet:townsendii genus:lepus institutioncode:ROM" ; Times: 2
+	Query: "vntype:specimen genus:Trichechus" ; Times: 4
+	Query: "catalognumber:30450 institutioncode:ROM" ; Times: 1
+	Query: "ROM 65522" ; Times: 1
+	Query: "Panthera onca mappable:1" ; Times: 2
+	Query: "genus:Eubalaena" ; Times: 1
+	Query: "catalognumber:30740 institutioncode:ROM" ; Times: 2
+	Query: "panthera onca" ; Times: 4
+	Query: "catalognumber:44983" ; Times: 1
+	Query: "Miolabis" ; Times: 1
+	Query: "order:perissodactyla country:&#34;kenya&#34; institutioncode:ROM" ; Times: 1
+	Query: "Hypertragulidae" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 809 download events in this period)
+Total number of records downloaded: 1614
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Mexico ; Times: 14
+	Country: India ; Times: 7
+	Country: Russia ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-06 ; Times: 1
+	Date: 2018-12-09 ; Times: 10
+	Date: 2018-12-10 ; Times: 3
+	Date: 2018-12-21 ; Times: 1
+	Date: 2018-12-18 ; Times: 4
+	Date: 2018-12-08 ; Times: 1
+	Date: 2018-12-30 ; Times: 1
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-07 ; Times: 1
+	Date: 2018-12-17 ; Times: 1
+	Date: 2018-12-05 ; Times: 1
+	Date: 2018-12-11 ; Times: 1
+	Date: 2018-12-04 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:townsendii genus:lepus country:&#34;canada&#34;" ; Times: 1
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "Puma concolor" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 2
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Eptesicus furinalis" ; Times: 1
+	Query: "Loxodonta africana vntype:specimen" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "lynx lynx" ; Times: 1
+	Query: "Panthera leo vntype:specimen" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "canis latrans" ; Times: 3
+	Query: "sylvilagus floridanus" ; Times: 1
+	Query: "sigmodon hispidus" ; Times: 1
+	Query: "class:Mammalia county:&#34;fresno&#34; stateprovince:&#34;california&#34;" ; Times: 1
+
+
+End of report.
