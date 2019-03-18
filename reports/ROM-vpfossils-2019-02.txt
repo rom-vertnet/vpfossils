@@ -1,0 +1,140 @@
+Report for Institution Code ROM, Resource vpfossils
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 82
+Number of records retrieved in searches: 1246
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 30
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 29
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 3
+	Country: Ecuador ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Brazil ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-22 ; Times: 4
+	Date: 2019-02-23 ; Times: 1
+	Date: 2019-02-11 ; Times: 3
+	Date: 2019-02-10 ; Times: 1
+	Date: 2019-02-13 ; Times: 1
+	Date: 2019-02-12 ; Times: 1
+	Date: 2019-02-15 ; Times: 2
+	Date: 2019-02-14 ; Times: 13
+	Date: 2019-02-17 ; Times: 10
+	Date: 2019-02-16 ; Times: 1
+	Date: 2019-02-19 ; Times: 3
+	Date: 2019-02-18 ; Times: 3
+	Date: 2019-02-25 ; Times: 4
+	Date: 2019-02-26 ; Times: 5
+	Date: 2019-02-27 ; Times: 13
+	Date: 2019-02-21 ; Times: 3
+	Date: 2019-02-04 ; Times: 1
+	Date: 2019-02-05 ; Times: 3
+	Date: 2019-02-08 ; Times: 3
+	Date: 2019-02-28 ; Times: 3
+	Date: 2019-02-01 ; Times: 1
+	Date: 2019-02-07 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Felidae institutioncode:ROM basisofrecord:FossilSpecimen" ; Times: 2
+	Query: "ROM 22671" ; Times: 1
+	Query: "fossil bird" ; Times: 1
+	Query: "county:&#34;San Diego County&#34; isfossil:1" ; Times: 1
+	Query: "58978" ; Times: 1
+	Query: "north haven class:mammalia stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "country:&#34;Australia&#34; institutioncode:ROM basisofrecord:FossilSpecimen" ; Times: 2
+	Query: "specificepithet:sapiens genus:Homo" ; Times: 1
+	Query: "Trichechus" ; Times: 2
+	Query: "lutra lutra" ; Times: 4
+	Query: "Ziphius cavirostris mappable:1" ; Times: 2
+	Query: "family:Dasyuridae institutioncode:ROM basisofrecord:FossilSpecimen" ; Times: 3
+	Query: "locality:Medicine Hat collectioncode:Vertebrate Palaeontology institutioncode:ROM" ; Times: 1
+	Query: "family:Sciuridae institutioncode:ROM basisofrecord:FossilSpecimen" ; Times: 2
+	Query: "Lycalopex sechurae" ; Times: 2
+	Query: "vntype:specimen genus:Odocoileus class:Mammalia stateprovince:&#34;New Mexico&#34; isfossil:1" ; Times: 1
+	Query: "family:Cervidae isfossil:1" ; Times: 1
+	Query: "catalognumber:35468 institutioncode:ROM" ; Times: 1
+	Query: "Panthera onca" ; Times: 21
+	Query: "ROM 35669" ; Times: 1
+	Query: "Dasypus" ; Times: 3
+	Query: "family:Thylacoleonidae institutioncode:ROM basisofrecord:FossilSpecimen" ; Times: 3
+	Query: "Trichechus manatus mappable:1" ; Times: 1
+	Query: "73020" ; Times: 1
+	Query: "lycalopex sechurae" ; Times: 1
+	Query: "catalognumber:73448" ; Times: 1
+	Query: "vntype:specimen genus:Odocoileus basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "family:Megalonychidae institutioncode:ROM basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "genus:Ursus class:Mammalia stateprovince:&#34;California&#34; country:&#34;USA&#34;" ; Times: 2
+	Query: "panthera onca" ; Times: 8
+	Query: "44998" ; Times: 1
+	Query: "collectioncode:Vertebrate Palaeontology institutioncode:ROM" ; Times: 1
+	Query: "genus:Trichechus class:Mammalia" ; Times: 2
+	Query: "Lutra lutra" ; Times: 1
+	Query: "Yoder Formation" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "family:Nimravidae institutioncode:ROM basisofrecord:FossilSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 1227 download events in this period)
+Total number of records downloaded: 11587
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-04 ; Times: 1
+	Date: 2019-02-14 ; Times: 5
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-11 ; Times: 1
+	Date: 2019-02-25 ; Times: 2
+	Date: 2019-02-26 ; Times: 2
+	Date: 2019-02-27 ; Times: 2
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-07 ; Times: 3
+	Date: 2019-02-17 ; Times: 2
+	Date: 2019-02-19 ; Times: 4
+	Date: 2019-02-08 ; Times: 2
+	Date: 2019-02-28 ; Times: 1
+	Date: 2019-02-21 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Felidae institutioncode:ROM basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "dermoptera" ; Times: 3
+	Query: "vntype:specimen genus:Odocoileus basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "genus:Camelops isfossil:1" ; Times: 1
+	Query: "Panthera onca" ; Times: 6
+	Query: "Dasypus" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "locality:Medicine Hat collectioncode:Vertebrate Palaeontology institutioncode:ROM" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "lycalopex sechurae" ; Times: 1
+	Query: "orcinus orca" ; Times: 2
+	Query: "family:Sciuridae institutioncode:ROM basisofrecord:FossilSpecimen" ; Times: 2
+	Query: "specificepithet:bison genus:Bison isfossil:1" ; Times: 1
+	Query: "genus:Trichechus class:Mammalia" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela institutioncode:ROM" ; Times: 1
+	Query: "Lepus alleni" ; Times: 2
+	Query: "Puma concolor" ; Times: 1
+	Query: "Dermoptera" ; Times: 3
+	Query: "family:Nimravidae institutioncode:ROM basisofrecord:FossilSpecimen" ; Times: 1
+
+
+End of report.
