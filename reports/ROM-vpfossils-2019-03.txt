@@ -1,0 +1,123 @@
+Report for Institution Code ROM, Resource vpfossils
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 65
+Number of records retrieved in searches: 1301
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 16
+	Country: Netherlands ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 39
+	Country: Peru ; Times: 1
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-06 ; Times: 2
+	Date: 2019-03-18 ; Times: 13
+	Date: 2019-03-11 ; Times: 5
+	Date: 2019-03-13 ; Times: 2
+	Date: 2019-03-30 ; Times: 1
+	Date: 2019-03-31 ; Times: 6
+	Date: 2019-03-25 ; Times: 2
+	Date: 2019-03-08 ; Times: 4
+	Date: 2019-03-21 ; Times: 7
+	Date: 2019-03-19 ; Times: 7
+	Date: 2019-03-05 ; Times: 2
+	Date: 2019-03-14 ; Times: 4
+	Date: 2019-03-15 ; Times: 6
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-07 ; Times: 1
+	Date: 2019-03-03 ; Times: 1
+	Date: 2019-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "73139" ; Times: 1
+	Query: "specificepithet:sechurae class:MAMMALIA" ; Times: 2
+	Query: "genus:Dasypus" ; Times: 1
+	Query: "catalognumber:27781" ; Times: 3
+	Query: "56147" ; Times: 1
+	Query: "smilodon" ; Times: 1
+	Query: "catalognumber:50694" ; Times: 1
+	Query: "poebrotherium" ; Times: 1
+	Query: "catalognumber:65844" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 2
+	Query: "rom 54325" ; Times: 3
+	Query: "38014" ; Times: 1
+	Query: "rom 54224" ; Times: 1
+	Query: "rom 54328" ; Times: 1
+	Query: "rom 54223" ; Times: 2
+	Query: "specificepithet:bellus genus:Dasypus" ; Times: 4
+	Query: "collectioncode:Vertebrate institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:75387" ; Times: 1
+	Query: "class:Mammalia county:&#34;Stonewall&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:bellus genus:Dasypus hastissue:1" ; Times: 3
+	Query: "Panthera onca" ; Times: 8
+	Query: "catalognumber:55726" ; Times: 1
+	Query: "rom 54225" ; Times: 2
+	Query: "vntype:specimen genus:Dasypus" ; Times: 1
+	Query: "23317" ; Times: 1
+	Query: "54471" ; Times: 1
+	Query: "genus:Smilodon institutioncode:ROM" ; Times: 1
+	Query: "54494" ; Times: 1
+	Query: "panthera onca" ; Times: 6
+	Query: "genus:Dasypus hastissue:1" ; Times: 1
+	Query: "60925" ; Times: 1
+	Query: "Primat" ; Times: 1
+	Query: "rom 42797" ; Times: 1
+	Query: "collectioncode:Vertebrate Paleontology institutioncode:ROM" ; Times: 2
+	Query: "48319" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "catalognumber:25992" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 1281 download events in this period)
+Total number of records downloaded: 533
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-04 ; Times: 2
+	Date: 2019-03-19 ; Times: 1
+	Date: 2019-03-31 ; Times: 1
+	Date: 2019-03-08 ; Times: 5
+	Date: 2019-03-21 ; Times: 3
+	Date: 2019-03-20 ; Times: 2
+	Date: 2019-03-17 ; Times: 1
+	Date: 2019-03-07 ; Times: 3
+	Date: 2019-03-03 ; Times: 3
+	Date: 2019-03-13 ; Times: 3
+	Date: 2019-03-29 ; Times: 2
+	Date: 2019-03-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "lasiorhinus" ; Times: 1
+	Query: "LEOPARDUS PARDALIS" ; Times: 3
+	Query: "specificepithet:bellus genus:Dasypus hastissue:1" ; Times: 1
+	Query: "vombatus" ; Times: 1
+	Query: "specificepithet:gulo" ; Times: 3
+	Query: "panthera onca" ; Times: 2
+	Query: "specificepithet:taxus genus:taxidea" ; Times: 1
+	Query: "thylogale" ; Times: 1
+	Query: "nutria" ; Times: 2
+	Query: "Eptesicus furinalis" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "Crocuta crocuta" ; Times: 1
+	Query: "class:Mammalia county:&#34;Knox&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:erminea genus:mustela" ; Times: 5
+	Query: "puma concolor" ; Times: 1
+	Query: "class:Mammalia county:&#34;Stonewall&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+
+
+End of report.
