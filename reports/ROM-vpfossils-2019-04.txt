@@ -1,0 +1,153 @@
+Report for Institution Code ROM, Resource vpfossils
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 75
+Number of records retrieved in searches: 260
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 8
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 9
+	Country: United Kingdom ; Times: 5
+	Country: Paraguay ; Times: 1
+	Country: Guatemala ; Times: 4
+	Country: Vietnam ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Switzerland ; Times: 3
+	Country: Bolivia ; Times: 3
+	Country: United States ; Times: 35
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 3
+	Date: 2019-04-07 ; Times: 1
+	Date: 2019-04-02 ; Times: 3
+	Date: 2019-04-05 ; Times: 2
+	Date: 2019-04-12 ; Times: 2
+	Date: 2019-04-11 ; Times: 7
+	Date: 2019-04-03 ; Times: 6
+	Date: 2019-04-17 ; Times: 3
+	Date: 2019-04-16 ; Times: 4
+	Date: 2019-04-14 ; Times: 1
+	Date: 2019-04-04 ; Times: 8
+	Date: 2019-04-30 ; Times: 2
+	Date: 2019-04-21 ; Times: 2
+	Date: 2019-04-26 ; Times: 2
+	Date: 2019-04-24 ; Times: 8
+	Date: 2019-04-25 ; Times: 2
+	Date: 2019-04-28 ; Times: 2
+	Date: 2019-04-08 ; Times: 7
+	Date: 2019-04-09 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "75298" ; Times: 1
+	Query: "47737" ; Times: 1
+	Query: "catalognumber:35470 institutioncode:ROM" ; Times: 2
+	Query: "catalognumber:57620 institutioncode:ROM" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 1
+	Query: "lutra" ; Times: 1
+	Query: "catalognumber:33096" ; Times: 1
+	Query: "12171 class:Mammalia" ; Times: 3
+	Query: "specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;maine&#34; institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:32032 institutioncode:ROM" ; Times: 2
+	Query: "ROM 26842" ; Times: 2
+	Query: "catalognumber:33072" ; Times: 1
+	Query: "lutra lutra" ; Times: 3
+	Query: "catalognumber:32293" ; Times: 1
+	Query: "catalognumber:47738 institutioncode:ROM" ; Times: 3
+	Query: "ROM 21604" ; Times: 1
+	Query: "Lasiurus egregius" ; Times: 1
+	Query: "Torontoceros" ; Times: 2
+	Query: "49917" ; Times: 2
+	Query: "57104" ; Times: 1
+	Query: "57105" ; Times: 1
+	Query: "57103" ; Times: 1
+	Query: "75419" ; Times: 1
+	Query: "mustela nigripes" ; Times: 2
+	Query: "catalognumber:32023 institutioncode:ROM" ; Times: 3
+	Query: "catalognumber:74660 institutioncode:ROM" ; Times: 1
+	Query: "ROM 35669" ; Times: 1
+	Query: "10313" ; Times: 1
+	Query: "catalognumber:51085 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:43527" ; Times: 1
+	Query: "catalognumber:51524 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:47737 institutioncode:ROM" ; Times: 1
+	Query: "Panthera onca" ; Times: 5
+	Query: "genus:Spilogale institutioncode:ROM" ; Times: 1
+	Query: "Panthera onca mappable:1" ; Times: 2
+	Query: "50360" ; Times: 1
+	Query: "panthera onca" ; Times: 3
+	Query: "59237" ; Times: 1
+	Query: "catalognumber:48883 institutioncode:ROM" ; Times: 1
+	Query: "25385 class:Mammalia" ; Times: 1
+	Query: "12171 class:mammalia" ; Times: 2
+	Query: "genus:smilodon stateprovince:&#34;virginia&#34; basisofrecord:FossilSpecimen" ; Times: 2
+	Query: "genus:Conepatus institutioncode:ROM" ; Times: 1
+	Query: "order:Carnivora locality:Medicine Hat institutioncode:ROM" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 1263 download events in this period)
+Total number of records downloaded: 545
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 17
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 2
+	Date: 2019-04-18 ; Times: 10
+	Date: 2019-04-05 ; Times: 1
+	Date: 2019-04-13 ; Times: 1
+	Date: 2019-04-11 ; Times: 1
+	Date: 2019-04-10 ; Times: 1
+	Date: 2019-04-17 ; Times: 3
+	Date: 2019-04-16 ; Times: 1
+	Date: 2019-04-30 ; Times: 1
+	Date: 2019-04-20 ; Times: 1
+	Date: 2019-04-24 ; Times: 2
+	Date: 2019-04-25 ; Times: 1
+	Date: 2019-04-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Puma" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "country:&#34;Uruguay&#34;" ; Times: 1
+	Query: "Didelphis virginiana year &gt;= 1970" ; Times: 1
+	Query: "Phenacomys intermedius" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "Delhi" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:concolor genus:puma" ; Times: 1
+	Query: "specificepithet:canadensis genus:Ovis" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Piura&#34; country:&#34;Perú&#34;" ; Times: 1
+	Query: "specificepithet:americana genus:Antilocapra" ; Times: 1
+	Query: "order:Carnivora locality:Medicine Hat institutioncode:ROM" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "genus:smilodon stateprovince:&#34;virginia&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+
+
+End of report.
