@@ -1,0 +1,115 @@
+Report for Institution Code ROM, Resource vpfossils
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 86
+Number of records retrieved in searches: 573
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 30
+	Country: United States ; Times: 33
+	Country: Colombia ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 4
+	Country: South Africa ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 4
+	Country: Peru ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 3
+	Date: 2019-05-31 ; Times: 5
+	Date: 2019-05-07 ; Times: 2
+	Date: 2019-05-06 ; Times: 1
+	Date: 2019-05-05 ; Times: 1
+	Date: 2019-05-03 ; Times: 6
+	Date: 2019-05-02 ; Times: 1
+	Date: 2019-05-25 ; Times: 7
+	Date: 2019-05-24 ; Times: 2
+	Date: 2019-05-27 ; Times: 1
+	Date: 2019-05-26 ; Times: 5
+	Date: 2019-05-21 ; Times: 3
+	Date: 2019-05-20 ; Times: 5
+	Date: 2019-05-23 ; Times: 7
+	Date: 2019-05-22 ; Times: 9
+	Date: 2019-05-29 ; Times: 3
+	Date: 2019-05-28 ; Times: 7
+	Date: 2019-05-19 ; Times: 3
+	Date: 2019-05-11 ; Times: 3
+	Date: 2019-05-13 ; Times: 3
+	Date: 2019-05-14 ; Times: 3
+	Date: 2019-05-15 ; Times: 1
+	Date: 2019-05-16 ; Times: 2
+	Date: 2019-05-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:canis country:&#34;USA&#34;" ; Times: 3
+	Query: "54721" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 3
+	Query: "Panthera onca Peru" ; Times: 1
+	Query: "47124" ; Times: 26
+	Query: "Fossils" ; Times: 1
+	Query: "lutra lutra" ; Times: 2
+	Query: "North Haven order:Carnivora stateprovince:&#34;Maine&#34;" ; Times: 1
+	Query: "&#34;panthera onca&#34;" ; Times: 1
+	Query: "Ziphius cavirostris mappable:1" ; Times: 1
+	Query: "catalognumber:35245 institutioncode:ROM" ; Times: 2
+	Query: "trichechus" ; Times: 6
+	Query: "46899" ; Times: 1
+	Query: "Mustela frenata vntype:specimen country:&#34;USA&#34;" ; Times: 1
+	Query: "Panthera onca" ; Times: 9
+	Query: "genus:canis mandible" ; Times: 1
+	Query: "Mustela frenata vntype:specimen stateprovince:&#34;Florida&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "Trichechus manatus mappable:1" ; Times: 1
+	Query: "59408" ; Times: 1
+	Query: "Panthera onca mappable:1" ; Times: 3
+	Query: "panthera onca" ; Times: 5
+	Query: "genus: canis mandible" ; Times: 1
+	Query: "Torontoceros" ; Times: 1
+	Query: "Gophers" ; Times: 1
+	Query: "specificepithet:onca genus:panthera" ; Times: 1
+	Query: "genus:Eubalaena stateprovince:&#34;Florida&#34;" ; Times: 7
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 940 download events in this period)
+Total number of records downloaded: 453
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-27 ; Times: 1
+	Date: 2019-05-26 ; Times: 2
+	Date: 2019-05-23 ; Times: 1
+	Date: 2019-05-22 ; Times: 1
+	Date: 2019-05-09 ; Times: 1
+	Date: 2019-05-08 ; Times: 1
+	Date: 2019-05-06 ; Times: 2
+	Date: 2019-05-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:latrans genus:canis" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "specificepithet:pardalis genus:leopardus" ; Times: 1
+	Query: "specificepithet:onca genus:panthera" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "genus:Eubalaena stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "equus" ; Times: 1
+
+
+End of report.
