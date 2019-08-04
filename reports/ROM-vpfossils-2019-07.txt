@@ -1,0 +1,172 @@
+Report for Institution Code ROM, Resource vpfossils
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 115
+Number of records retrieved in searches: 2231
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 11
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: Nepal ; Times: 3
+	Country: United States ; Times: 84
+	Country: Guatemala ; Times: 1
+	Country: Slovakia ; Times: 1
+	Country: Belgium ; Times: 4
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 16
+	Date: 2019-07-08 ; Times: 41
+	Date: 2019-07-21 ; Times: 3
+	Date: 2019-07-19 ; Times: 9
+	Date: 2019-07-26 ; Times: 3
+	Date: 2019-07-25 ; Times: 1
+	Date: 2019-07-22 ; Times: 2
+	Date: 2019-07-01 ; Times: 2
+	Date: 2019-07-05 ; Times: 1
+	Date: 2019-07-03 ; Times: 5
+	Date: 2019-07-02 ; Times: 4
+	Date: 2019-07-16 ; Times: 10
+	Date: 2019-07-31 ; Times: 1
+	Date: 2019-07-07 ; Times: 2
+	Date: 2019-07-06 ; Times: 2
+	Date: 2019-07-30 ; Times: 5
+	Date: 2019-07-28 ; Times: 1
+	Date: 2019-07-14 ; Times: 1
+	Date: 2019-07-23 ; Times: 2
+	Date: 2019-07-15 ; Times: 3
+	Date: 2019-07-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Mammut specificepithet:americanum" ; Times: 1
+	Query: "genus:Eptesicus specificepithet:andinus" ; Times: 1
+	Query: "genus:Homo specificepithet:sapiens" ; Times: 1
+	Query: "genus:Machairodus" ; Times: 1
+	Query: "genus:Chlororhysis specificepithet:knightensis" ; Times: 1
+	Query: "genus:Tetonius specificepithet:matthewi" ; Times: 1
+	Query: "genus:Pronothodectes specificepithet:jepi" ; Times: 1
+	Query: "catalognumber:32176 institutioncode:ROM" ; Times: 1
+	Query: "genus:Dendropithecus specificepithet:macinnesi" ; Times: 1
+	Query: "genus:Pronothodectes specificepithet:matthewi" ; Times: 1
+	Query: "genus:Antidorcas specificepithet:recki" ; Times: 1
+	Query: "ROM 33162" ; Times: 2
+	Query: "genus:Absarokius specificepithet:abbotti" ; Times: 1
+	Query: "genus:Anemorhysis specificepithet:pattersoni" ; Times: 1
+	Query: "genus:Paralophiodon" ; Times: 1
+	Query: "ROM 30852" ; Times: 1
+	Query: "genus:Cantius specificepithet:mckennai" ; Times: 1
+	Query: "country:&#34;USA&#34; panthera tigris" ; Times: 1
+	Query: "fossils" ; Times: 1
+	Query: "order:perissodactyla class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:ROM" ; Times: 1
+	Query: "Van Hoof" ; Times: 4
+	Query: "genus:Alcelaphus " ; Times: 1
+	Query: "genus:Limnoecus" ; Times: 1
+	Query: "genus:Lophiodon specificepithet:lautricense" ; Times: 1
+	Query: "genus:Rhizomys specificepithet:sinensis" ; Times: 1
+	Query: "genus:Equus specificepithet:africanus" ; Times: 1
+	Query: "genus:Carpolestes specificepithet:dubius" ; Times: 1
+	Query: "ROM 41586" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 3
+	Query: "genus:Epicyon" ; Times: 1
+	Query: "order:carnivora class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:ROM" ; Times: 1
+	Query: "genus:Bootherium specificepithet:bombifrons" ; Times: 1
+	Query: "genus:Steinius specificepithet:vespertinus" ; Times: 1
+	Query: "genus:Cantius specificepithet:ralstoni" ; Times: 1
+	Query: "genus:Gomphotherium" ; Times: 1
+	Query: "genus:Prosciurus  specificepithet:relictus" ; Times: 1
+	Query: "locality:Dollard stateprovince:&#34;Saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "genus:Tetonius specificepithet:homunculus" ; Times: 1
+	Query: "28317" ; Times: 1
+	Query: "genus:Pondaungia" ; Times: 1
+	Query: "genus:Titanohyrax" ; Times: 1
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 2
+	Query: "genus:Homo specificepithet:erectus" ; Times: 1
+	Query: "genus:Holmesina specificepithet:septentrionalis" ; Times: 1
+	Query: "genus:Subhyracodon" ; Times: 1
+	Query: "Panthera onca" ; Times: 5
+	Query: "order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:ROM" ; Times: 3
+	Query: "genus:Shoshonius specificepithet:cooperi" ; Times: 1
+	Query: "genus:Absarokius specificepithet:metoecus" ; Times: 1
+	Query: "genus:panthera order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Anemorhysis specificepithet:pearcei" ; Times: 1
+	Query: "genus:Trogolemur" ; Times: 1
+	Query: "lmk" ; Times: 1
+	Query: "genus:Equus specificepithet:complicatus" ; Times: 1
+	Query: "genus:Cantius specificepithet:trigonodus" ; Times: 1
+	Query: "ROM 41224" ; Times: 2
+	Query: "catalognumber:38038 institutioncode:ROM" ; Times: 1
+	Query: "genus:Coelodonta specificepithet:antiquitatis" ; Times: 1
+	Query: "genus:Adapis specificepithet:parisiensis" ; Times: 1
+	Query: "catalognumber:54036" ; Times: 1
+	Query: "order:artiodactyla class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:ROM" ; Times: 1
+	Query: "genus:Homo specificepithet:habilis" ; Times: 1
+	Query: "ROM 41223" ; Times: 1
+	Query: "Panthera onca mappable:1" ; Times: 2
+	Query: "genus:Metridiochoerus specificepithet:andrewsi" ; Times: 1
+	Query: "(mammuthus hair)" ; Times: 10
+	Query: "nutria" ; Times: 1
+	Query: "class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:ROM" ; Times: 2
+	Query: "genus:Cantius specificepithet:abditus" ; Times: 1
+	Query: "genus:Pseudohipparion specificepithet:skinneri" ; Times: 1
+	Query: "lophostoma occidentalis" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:ROM" ; Times: 2
+	Query: "genus:canis order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:ROM" ; Times: 1
+	Query: "panthera onca" ; Times: 5
+	Query: "class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:ROM" ; Times: 3
+	Query: "72640-1-2" ; Times: 1
+	Query: "genus:Alcelaphus  specificepithet:buselaphus" ; Times: 1
+	Query: "genus:Cantius specificepithet:frugivorus" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "genus:undet." ; Times: 1
+	Query: "genus:Arctotherium" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 985 download events in this period)
+Total number of records downloaded: 566
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Peru ; Times: 2
+	Country: Ecuador ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-23 ; Times: 2
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-25 ; Times: 7
+	Date: 2019-07-10 ; Times: 2
+	Date: 2019-07-28 ; Times: 1
+	Date: 2019-07-05 ; Times: 1
+	Date: 2019-07-31 ; Times: 1
+	Date: 2019-07-15 ; Times: 1
+	Date: 2019-07-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "skull family:Canidae institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:hudsonius genus:Zapus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1971 year &lt;= 1975" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1901 year &lt;= 1920" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "lophostoma occidentalis" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1981 year &lt;= 1985" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1921 year &lt;= 1930" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1966 year &lt;= 1970" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+
+
+End of report.
