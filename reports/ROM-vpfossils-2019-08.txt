@@ -1,0 +1,134 @@
+Report for Institution Code ROM, Resource vpfossils
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 76
+Number of records retrieved in searches: 1787
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United States ; Times: 58
+	Country: Mexico ; Times: 6
+	Country: United Kingdom ; Times: 5
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-27 ; Times: 7
+	Date: 2019-08-08 ; Times: 11
+	Date: 2019-08-07 ; Times: 4
+	Date: 2019-08-01 ; Times: 2
+	Date: 2019-08-02 ; Times: 2
+	Date: 2019-08-04 ; Times: 1
+	Date: 2019-08-05 ; Times: 8
+	Date: 2019-08-28 ; Times: 4
+	Date: 2019-08-29 ; Times: 4
+	Date: 2019-08-26 ; Times: 2
+	Date: 2019-08-09 ; Times: 4
+	Date: 2019-08-24 ; Times: 1
+	Date: 2019-08-22 ; Times: 2
+	Date: 2019-08-20 ; Times: 4
+	Date: 2019-08-21 ; Times: 1
+	Date: 2019-08-16 ; Times: 2
+	Date: 2019-08-15 ; Times: 4
+	Date: 2019-08-14 ; Times: 1
+	Date: 2019-08-13 ; Times: 3
+	Date: 2019-08-12 ; Times: 2
+	Date: 2019-08-30 ; Times: 4
+	Date: 2019-08-19 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Manitoba&#34; institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "cavirostris" ; Times: 1
+	Query: "30879" ; Times: 1
+	Query: "specificepithet:browni class:mammalia (browni)" ; Times: 1
+	Query: "genus:Dendropithecus specificepithet:macinnesi" ; Times: 1
+	Query: "Gazella dorcas" ; Times: 1
+	Query: "phalanx genus:Smilodon institutioncode:ROM" ; Times: 1
+	Query: "genus:Antidorcas specificepithet:recki" ; Times: 1
+	Query: "specificepithet:giganteus (skeleton) institutioncode:ROM" ; Times: 1
+	Query: "class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:ROM" ; Times: 2
+	Query: "catalognumber:57535 institutioncode:ROM" ; Times: 1
+	Query: "genus:Pseudohipparion specificepithet:skinneri" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "genus:Coelodonta specificepithet:antiquitatis" ; Times: 1
+	Query: "genus:Lophiodon specificepithet:lautricense" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 5
+	Query: "Lynx canadensis" ; Times: 4
+	Query: "genus:Bootherium specificepithet:bombifrons" ; Times: 1
+	Query: "genus:Palenochtha specificepithet:minor" ; Times: 1
+	Query: "institutioncode:ROM tremarctos" ; Times: 1
+	Query: "56339" ; Times: 1
+	Query: "Homo sapiens" ; Times: 1
+	Query: "Panthera onca" ; Times: 13
+	Query: "ROM 35669" ; Times: 2
+	Query: "21879" ; Times: 1
+	Query: "(mammuthus hair)" ; Times: 1
+	Query: "39641" ; Times: 1
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 1
+	Query: "Bootherium" ; Times: 3
+	Query: "catalognumber:48611" ; Times: 1
+	Query: "genus:Nothocyon specificepithet:lemur" ; Times: 1
+	Query: "Panthera onca mappable:1" ; Times: 1
+	Query: "fossils" ; Times: 1
+	Query: "specificepithet:onca genus:panthera country:&#34;usa&#34;" ; Times: 3
+	Query: "panthera onca" ; Times: 5
+	Query: "28575" ; Times: 1
+	Query: "28574" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 3
+	Query: "genus:Prosciurus  specificepithet:relictus" ; Times: 1
+	Query: "Panthera" ; Times: 2
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "class:Mammalia country:&#34;Uruguay&#34; institutioncode:ROM" ; Times: 1
+	Query: "genus:Alcelaphus  specificepithet:buselaphus" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1034 download events in this period)
+Total number of records downloaded: 1019
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 11
+	Country: Peru ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-09 ; Times: 1
+	Date: 2019-08-01 ; Times: 1
+	Date: 2019-08-16 ; Times: 1
+	Date: 2019-08-15 ; Times: 1
+	Date: 2019-08-13 ; Times: 1
+	Date: 2019-08-05 ; Times: 2
+	Date: 2019-08-29 ; Times: 4
+	Date: 2019-08-27 ; Times: 1
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-22 ; Times: 1
+	Date: 2019-08-30 ; Times: 3
+	Date: 2019-08-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "loxodonta africana" ; Times: 1
+	Query: "Balaenoptera acutorostrata" ; Times: 1
+	Query: "Ovibos" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "lepus americanus" ; Times: 1
+	Query: "ticholeptus" ; Times: 1
+	Query: "panthera tigris" ; Times: 4
+	Query: "phalanx genus:Smilodon institutioncode:ROM" ; Times: 1
+	Query: "genus:sorex country:&#34;USA&#34;" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "institutioncode:ROM tremarctos" ; Times: 1
+	Query: "merychyus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+
+
+End of report.
