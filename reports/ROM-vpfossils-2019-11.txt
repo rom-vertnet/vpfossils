@@ -1,0 +1,144 @@
+Report for Institution Code ROM, Resource vpfossils
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 127
+Number of records retrieved in searches: 418
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 4
+	Country: Denmark ; Times: 13
+	Country: India ; Times: 3
+	Country: France ; Times: 1
+	Country: United States ; Times: 84
+	Country: Colombia ; Times: 10
+	Country: Unknown ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 1
+	Date: 2019-11-21 ; Times: 1
+	Date: 2019-11-22 ; Times: 1
+	Date: 2019-11-05 ; Times: 1
+	Date: 2019-11-19 ; Times: 9
+	Date: 2019-11-18 ; Times: 8
+	Date: 2019-11-08 ; Times: 16
+	Date: 2019-11-09 ; Times: 6
+	Date: 2019-11-06 ; Times: 10
+	Date: 2019-11-07 ; Times: 13
+	Date: 2019-11-04 ; Times: 3
+	Date: 2019-11-16 ; Times: 8
+	Date: 2019-11-11 ; Times: 3
+	Date: 2019-11-03 ; Times: 12
+	Date: 2019-11-13 ; Times: 1
+	Date: 2019-11-01 ; Times: 10
+	Date: 2019-11-15 ; Times: 12
+	Date: 2019-11-27 ; Times: 2
+	Date: 2019-11-14 ; Times: 7
+	Date: 2019-11-10 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Grizzly Bear 2017" ; Times: 1
+	Query: "Grizzly Bear 2016" ; Times: 1
+	Query: "53464" ; Times: 2
+	Query: "61552" ; Times: 1
+	Query: "53460" ; Times: 2
+	Query: "52778" ; Times: 1
+	Query: "56937" ; Times: 2
+	Query: "Grizzly Bear 2018" ; Times: 1
+	Query: "35568" ; Times: 1
+	Query: "02335" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 8
+	Query: "45295" ; Times: 1
+	Query: "(manitoba) institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "60015" ; Times: 1
+	Query: "04666" ; Times: 1
+	Query: "catalognumber:35676" ; Times: 1
+	Query: "stateprovince:&#34;manitoba&#34; institutioncode:ROM isfossil:1" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera country:&#34;USA&#34;" ; Times: 1
+	Query: "USA Dasypus" ; Times: 1
+	Query: "02009" ; Times: 1
+	Query: "Lynx canadensis 2017" ; Times: 3
+	Query: "Lynx canadensis 2016" ; Times: 4
+	Query: "54721" ; Times: 1
+	Query: "Elephas maximus" ; Times: 4
+	Query: "ROM 5096" ; Times: 2
+	Query: "53454" ; Times: 1
+	Query: "61132" ; Times: 1
+	Query: "53812" ; Times: 1
+	Query: "56084" ; Times: 1
+	Query: "Leopardus pardalis 1978" ; Times: 4
+	Query: "catalognumber:12481 institutioncode:ROM" ; Times: 1
+	Query: "06815" ; Times: 1
+	Query: "56080" ; Times: 1
+	Query: "53471" ; Times: 1
+	Query: "06534" ; Times: 1
+	Query: "Lutra lutra" ; Times: 1
+	Query: "54466" ; Times: 1
+	Query: "Panthera onca" ; Times: 8
+	Query: "54464" ; Times: 1
+	Query: "sivapithecus" ; Times: 1
+	Query: "19197" ; Times: 1
+	Query: "recordedby:Willis institutioncode:ROM" ; Times: 3
+	Query: "holocene class:mammalia" ; Times: 2
+	Query: "19720" ; Times: 2
+	Query: "54583" ; Times: 1
+	Query: "54582" ; Times: 1
+	Query: "specificepithet:monax genus:marmota country:&#34;Canada&#34; year &gt;= 1950 year &lt;= 1975" ; Times: 1
+	Query: "catalognumber:11614 institutioncode:ROM" ; Times: 1
+	Query: "Eodelphis" ; Times: 1
+	Query: "catalognumber:35330 institutioncode:ROM" ; Times: 1
+	Query: "class:mammalia country:&#34;india&#34; institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:73145" ; Times: 1
+	Query: "catalognumber:47954 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "61707" ; Times: 2
+	Query: "Leopardus pardalis 2017" ; Times: 4
+	Query: "Leopardus pardalis 2016" ; Times: 4
+	Query: "canis lepophagus" ; Times: 1
+	Query: "45337" ; Times: 1
+	Query: "46986" ; Times: 1
+	Query: "catalognumber:10108 institutioncode:ROM" ; Times: 1
+	Query: "panthera onca" ; Times: 18
+	Query: "Grizzly Bear 1975" ; Times: 1
+	Query: "catalognumber:74838" ; Times: 1
+	Query: "ROM Eodelphis" ; Times: 5
+	Query: "Grizzly Bear 1976" ; Times: 1
+	Query: "specificepithet:monax genus:marmota country:&#34;Canada&#34; year &gt;= 1942 year &lt;= 2019" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1367 download events in this period)
+Total number of records downloaded: 75
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: India ; Times: 1
+	Country: Portugal ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 2
+	Date: 2019-11-22 ; Times: 5
+	Date: 2019-11-19 ; Times: 1
+	Date: 2019-11-26 ; Times: 1
+	Date: 2019-11-06 ; Times: 1
+	Date: 2019-11-13 ; Times: 1
+	Date: 2019-11-12 ; Times: 1
+	Date: 2019-11-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Loxodonta africana" ; Times: 1
+	Query: "class:mammalia country:&#34;india&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:latrans genus:canis" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "monachus tropicalis" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus" ; Times: 5
+	Query: "Eodelphis" ; Times: 1
+	Query: "genus:Lasiurus institutioncode:ROM" ; Times: 2
+
+
+End of report.
