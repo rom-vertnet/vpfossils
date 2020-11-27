@@ -1,0 +1,107 @@
+Report for Institution Code ROM, Resource vpfossils
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 46
+Number of records retrieved in searches: 92
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 27
+	Country: Mexico ; Times: 1
+	Country: Panama ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Thailand ; Times: 5
+	Country: Ukraine ; Times: 1
+	Country: Brazil ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 1
+	Date: 2019-10-22 ; Times: 5
+	Date: 2019-10-18 ; Times: 4
+	Date: 2019-10-19 ; Times: 1
+	Date: 2019-10-27 ; Times: 3
+	Date: 2019-10-25 ; Times: 1
+	Date: 2019-10-24 ; Times: 4
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-05 ; Times: 2
+	Date: 2019-10-10 ; Times: 1
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-16 ; Times: 2
+	Date: 2019-10-04 ; Times: 3
+	Date: 2019-10-07 ; Times: 8
+	Date: 2019-10-23 ; Times: 3
+	Date: 2019-10-20 ; Times: 3
+	Date: 2019-10-21 ; Times: 1
+	Date: 2019-10-28 ; Times: 1
+	Date: 2019-10-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Elephantidae skull" ; Times: 2
+	Query: "54212" ; Times: 1
+	Query: "locality:irvine stateprovince:&#34;alberta&#34;" ; Times: 1
+	Query: "catalognumber:25102 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:31806" ; Times: 1
+	Query: "Leopardus pardalis 2016" ; Times: 1
+	Query: "catalognumber:60631 institutioncode:ROM" ; Times: 1
+	Query: "jaguar panthera" ; Times: 1
+	Query: "Panthera Onca" ; Times: 1
+	Query: "Lynx canadensis 2017" ; Times: 1
+	Query: "Lynx canadensis 2016" ; Times: 1
+	Query: "ROM 37809" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "ziphius" ; Times: 1
+	Query: "specificepithet:egregius genus:Lasiurus" ; Times: 3
+	Query: "Chaeropus ecaudatus" ; Times: 1
+	Query: "ROM 70874" ; Times: 4
+	Query: "mustela nigripes" ; Times: 1
+	Query: "Panthera onca" ; Times: 3
+	Query: "family:Canidae institutioncode:ROM" ; Times: 1
+	Query: "32998" ; Times: 1
+	Query: "genus:panthera" ; Times: 2
+	Query: "catalognumber:28321 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:39862 institutioncode:ROM" ; Times: 2
+	Query: "Bootherium" ; Times: 2
+	Query: "vntype:specimen specificepithet:priscus genus:bison hastissue:1" ; Times: 2
+	Query: "Leopardus pardalis 1978" ; Times: 1
+	Query: "50567" ; Times: 1
+	Query: "specificepithet:monax genus:Marmota year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "Leopardus pardalis 2017" ; Times: 1
+	Query: "50678" ; Times: 1
+	Query: "Smilodon" ; Times: 1
+	Query: "63905" ; Times: 1
+	Query: "63902" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1308 download events in this period)
+Total number of records downloaded: 12609
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 14
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-21 ; Times: 1
+	Date: 2019-10-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "family:Canidae institutioncode:ROM" ; Times: 1
+	Query: "puma concolor" ; Times: 10
+	Query: "Puma Concolor" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Huila&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+
+
+End of report.
