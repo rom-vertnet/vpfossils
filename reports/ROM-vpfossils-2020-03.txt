@@ -1,0 +1,142 @@
+Report for Institution Code ROM, Resource vpfossils
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 74
+Number of records retrieved in searches: 975
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 41
+	Country: Australia ; Times: 1
+	Country: Canada ; Times: 6
+	Country: Mexico ; Times: 16
+	Country: United Kingdom ; Times: 5
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-06 ; Times: 5
+	Date: 2020-03-18 ; Times: 13
+	Date: 2020-03-02 ; Times: 10
+	Date: 2020-03-26 ; Times: 1
+	Date: 2020-03-03 ; Times: 4
+	Date: 2020-03-19 ; Times: 1
+	Date: 2020-03-30 ; Times: 4
+	Date: 2020-03-31 ; Times: 4
+	Date: 2020-03-25 ; Times: 1
+	Date: 2020-03-24 ; Times: 2
+	Date: 2020-03-23 ; Times: 2
+	Date: 2020-03-22 ; Times: 3
+	Date: 2020-03-21 ; Times: 1
+	Date: 2020-03-20 ; Times: 7
+	Date: 2020-03-05 ; Times: 2
+	Date: 2020-03-09 ; Times: 1
+	Date: 2020-03-04 ; Times: 1
+	Date: 2020-03-28 ; Times: 2
+	Date: 2020-03-13 ; Times: 2
+	Date: 2020-03-10 ; Times: 3
+	Date: 2020-03-11 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia catalognumber:R institutioncode:ROM" ; Times: 1
+	Query: "38874" ; Times: 1
+	Query: "Eptesicus andinus" ; Times: 1
+	Query: "Recent class:Mammalia collectioncode:Vertebrate Palaeontology institutioncode:ROM" ; Times: 1
+	Query: "panthera" ; Times: 2
+	Query: "catalognumber:46721" ; Times: 1
+	Query: "specificepithet:frenata genus:mustela stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "genus:PANTHERA" ; Times: 1
+	Query: "genus:Alcelaphus specificepithet:buselaphus" ; Times: 1
+	Query: "(49096)" ; Times: 2
+	Query: "29600" ; Times: 1
+	Query: "class:Mammalia collectioncode:Vertebrate Palaeontology institutioncode:ROM" ; Times: 2
+	Query: "Trichechus" ; Times: 1
+	Query: "21449" ; Times: 1
+	Query: "catalognumber:48455" ; Times: 1
+	Query: "Astragalus gracilis mappable:1" ; Times: 1
+	Query: "Hipposideros bouziguensis" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 2
+	Query: "Lasiurus egregius" ; Times: 2
+	Query: "canis familiaris" ; Times: 2
+	Query: "38031" ; Times: 1
+	Query: "Onychonycteris finneyi" ; Times: 1
+	Query: "stateprovince:&#34;New Mexico&#34; (Ladrones)" ; Times: 1
+	Query: "genus:Gazella specificepithet:dorcas" ; Times: 3
+	Query: "trichechus" ; Times: 1
+	Query: "70888" ; Times: 1
+	Query: "(53280)" ; Times: 1
+	Query: "genus:Acinonyx" ; Times: 1
+	Query: "Homo sapiens" ; Times: 1
+	Query: "ROM 59191" ; Times: 1
+	Query: "ROM 56103" ; Times: 1
+	Query: "PANTHERA" ; Times: 1
+	Query: "45055" ; Times: 1
+	Query: "Lophostoma occidentalis" ; Times: 2
+	Query: "57087" ; Times: 1
+	Query: "60753" ; Times: 1
+	Query: "Panthera onca" ; Times: 4
+	Query: "50807" ; Times: 1
+	Query: "Proeutatus" ; Times: 1
+	Query: "genus:Acinonyx specificepithet:jubatus" ; Times: 3
+	Query: "60759" ; Times: 1
+	Query: "58767" ; Times: 1
+	Query: "24177" ; Times: 1
+	Query: "60756" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "(49093)" ; Times: 2
+	Query: "Icaronycteris index" ; Times: 2
+	Query: "50678" ; Times: 1
+	Query: "34264 ROM" ; Times: 2
+	Query: "21297" ; Times: 1
+	Query: "ROM 65867" ; Times: 1
+	Query: "class:Mammalia catalognumber:R collectioncode:Vertebrate Palaeontology institutioncode:ROM" ; Times: 1
+	Query: "57155" ; Times: 1
+	Query: "catalognumber:57365" ; Times: 1
+	Query: "Macroderma gigas" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 853 download events in this period)
+Total number of records downloaded: 241
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 3
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-20 ; Times: 1
+	Date: 2020-03-24 ; Times: 1
+	Date: 2020-03-09 ; Times: 1
+	Date: 2020-03-18 ; Times: 1
+	Date: 2020-03-19 ; Times: 1
+	Date: 2020-03-17 ; Times: 1
+	Date: 2020-03-11 ; Times: 1
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-29 ; Times: 1
+	Date: 2020-03-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "the great lakes" ; Times: 1
+	Query: "genus:ursus" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Ceará&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:frenata genus:mustela stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+
+
+End of report.
