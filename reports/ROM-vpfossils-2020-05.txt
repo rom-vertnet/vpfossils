@@ -1,0 +1,129 @@
+Report for Institution Code ROM, Resource vpfossils
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 73
+Number of records retrieved in searches: 211
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United Kingdom ; Times: 5
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 2
+	Country: France ; Times: 6
+	Country: United States ; Times: 34
+	Country: Germany ; Times: 4
+	Country: Ireland ; Times: 5
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 14
+	Date: 2020-05-24 ; Times: 2
+	Date: 2020-05-26 ; Times: 8
+	Date: 2020-05-21 ; Times: 1
+	Date: 2020-05-30 ; Times: 4
+	Date: 2020-05-23 ; Times: 1
+	Date: 2020-05-22 ; Times: 3
+	Date: 2020-05-02 ; Times: 8
+	Date: 2020-05-28 ; Times: 3
+	Date: 2020-05-04 ; Times: 1
+	Date: 2020-05-18 ; Times: 1
+	Date: 2020-05-07 ; Times: 2
+	Date: 2020-05-08 ; Times: 2
+	Date: 2020-05-10 ; Times: 4
+	Date: 2020-05-06 ; Times: 2
+	Date: 2020-05-13 ; Times: 1
+	Date: 2020-05-03 ; Times: 3
+	Date: 2020-05-15 ; Times: 2
+	Date: 2020-05-01 ; Times: 2
+	Date: 2020-05-17 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "45761" ; Times: 1
+	Query: "ROM 37622" ; Times: 1
+	Query: "51803" ; Times: 1
+	Query: "36580" ; Times: 1
+	Query: "48626" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 6
+	Query: "recordedby:Fite" ; Times: 1
+	Query: "Equus africanus" ; Times: 2
+	Query: "xenarthra" ; Times: 1
+	Query: "recordedby:Barbara Fite" ; Times: 1
+	Query: "ROM 26536" ; Times: 2
+	Query: "50345" ; Times: 1
+	Query: "genus:Carcinodon (Paleocene)" ; Times: 1
+	Query: "63237" ; Times: 1
+	Query: "47128" ; Times: 1
+	Query: "genus:Bison specificepithet:Bison" ; Times: 1
+	Query: "catalognumber:26392" ; Times: 1
+	Query: "ROM 11951" ; Times: 1
+	Query: "ROM 3891" ; Times: 2
+	Query: "ROM 23336" ; Times: 1
+	Query: "catalognumber:19612" ; Times: 1
+	Query: "39437" ; Times: 1
+	Query: "catalognumber:30627 institutioncode:ROM" ; Times: 2
+	Query: "catalognumber:35597 institutioncode:ROM" ; Times: 7
+	Query: "38592" ; Times: 1
+	Query: "Panthera onca" ; Times: 5
+	Query: "48344" ; Times: 1
+	Query: "ROM 35605" ; Times: 1
+	Query: "38185" ; Times: 1
+	Query: "genus:Loxolophus (Paleocene)" ; Times: 1
+	Query: "genus:Orcinus specificepithet:orca" ; Times: 10
+	Query: "75267" ; Times: 2
+	Query: "47956" ; Times: 1
+	Query: "genus:Oxyclaenus (Paleocene)" ; Times: 1
+	Query: "60453" ; Times: 1
+	Query: "catalognumber:35605 institutioncode:ROM" ; Times: 3
+	Query: "catalognumber:28784" ; Times: 1
+	Query: "64748" ; Times: 1
+	Query: "ROM 37937" ; Times: 1
+	Query: "ROM 37936" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1106 download events in this period)
+Total number of records downloaded: 444
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Brazil ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-26 ; Times: 1
+	Date: 2020-05-30 ; Times: 6
+	Date: 2020-05-23 ; Times: 1
+	Date: 2020-05-31 ; Times: 2
+	Date: 2020-05-07 ; Times: 2
+	Date: 2020-05-06 ; Times: 1
+	Date: 2020-05-03 ; Times: 2
+	Date: 2020-05-16 ; Times: 1
+	Date: 2020-05-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Rodentia stateprovince:Colorado" ; Times: 1
+	Query: "cervus canadensis" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "stateprovince:&#34;virginia&#34; isfossil:1" ; Times: 1
+	Query: "genus:Oxyclaenus (Paleocene)" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "genus:Martes" ; Times: 2
+	Query: "genus:Ptilodus (Paleogene OR Paleocene)" ; Times: 1
+	Query: "genus:Gulo" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "genus:Carcinodon (Paleocene)" ; Times: 1
+	Query: "bone valley" ; Times: 1
+	Query: "Martes martes" ; Times: 1
+	Query: "genus:Loxolophus (Paleocene)" ; Times: 1
+
+
+End of report.
