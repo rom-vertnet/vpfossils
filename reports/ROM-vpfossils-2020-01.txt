@@ -1,0 +1,136 @@
+Report for Institution Code ROM, Resource vpfossils
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 69
+Number of records retrieved in searches: 1344
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: United States ; Times: 39
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 4
+	Country: Panama ; Times: 3
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 8
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 6
+	Date: 2020-01-17 ; Times: 1
+	Date: 2020-01-03 ; Times: 1
+	Date: 2020-01-02 ; Times: 5
+	Date: 2020-01-06 ; Times: 4
+	Date: 2020-01-21 ; Times: 4
+	Date: 2020-01-20 ; Times: 3
+	Date: 2020-01-09 ; Times: 1
+	Date: 2020-01-08 ; Times: 2
+	Date: 2020-01-24 ; Times: 4
+	Date: 2020-01-27 ; Times: 2
+	Date: 2020-01-26 ; Times: 1
+	Date: 2020-01-29 ; Times: 1
+	Date: 2020-01-28 ; Times: 3
+	Date: 2020-01-18 ; Times: 1
+	Date: 2020-01-19 ; Times: 1
+	Date: 2020-01-14 ; Times: 2
+	Date: 2020-01-15 ; Times: 6
+	Date: 2020-01-30 ; Times: 7
+	Date: 2020-01-31 ; Times: 6
+	Date: 2020-01-10 ; Times: 5
+	Date: 2020-01-13 ; Times: 1
+	Date: 2020-01-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:egregius genus:lasiurus family:vespertilionidae" ; Times: 1
+	Query: "genus:Megalonyx stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:sapiens genus:Homo institutioncode:ROM" ; Times: 1
+	Query: "73465" ; Times: 1
+	Query: "73464" ; Times: 1
+	Query: "smilodon" ; Times: 1
+	Query: "36807 institutioncode:ROM" ; Times: 1
+	Query: "39813" ; Times: 1
+	Query: "Ziphius cavirostris mappable:1" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 2
+	Query: "catalognumber:12682" ; Times: 1
+	Query: "catalognumber:74652 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:48074 institutioncode:ROM" ; Times: 2
+	Query: "Canis familiaris mappable:1" ; Times: 1
+	Query: "catalognumber:25239" ; Times: 1
+	Query: "ROM 23336" ; Times: 2
+	Query: "catalognumber:24995" ; Times: 1
+	Query: "12356" ; Times: 1
+	Query: "specificepithet:egregius genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "Panthera onca" ; Times: 12
+	Query: "48995" ; Times: 1
+	Query: "catalognumber:32328 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:30917 institutioncode:ROM" ; Times: 1
+	Query: "Lophostoma occidentalis" ; Times: 1
+	Query: "Sirenia" ; Times: 1
+	Query: "homo neanderthalensis" ; Times: 2
+	Query: "Trichechus manatus mappable:1" ; Times: 1
+	Query: "family:Equidae stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "ROM 38104" ; Times: 1
+	Query: "catalognumber:22328 institutioncode:ROM" ; Times: 2
+	Query: "rom 3275" ; Times: 2
+	Query: "Harold Hanson" ; Times: 3
+	Query: "Panthera onca mappable:1" ; Times: 3
+	Query: "catalognumber:12453" ; Times: 1
+	Query: "locality:Corralito institutioncode:ROM" ; Times: 1
+	Query: "county:&#34;Sierra&#34; stateprovince:&#34;New Mexico&#34; isfossil:1" ; Times: 1
+	Query: "dermoptera" ; Times: 11
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 1584 download events in this period)
+Total number of records downloaded: 5190
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 41
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 4
+	Date: 2020-01-02 ; Times: 1
+	Date: 2020-01-17 ; Times: 1
+	Date: 2020-01-07 ; Times: 1
+	Date: 2020-01-28 ; Times: 2
+	Date: 2020-01-21 ; Times: 1
+	Date: 2020-01-20 ; Times: 5
+	Date: 2020-01-23 ; Times: 1
+	Date: 2020-01-22 ; Times: 4
+	Date: 2020-01-24 ; Times: 2
+	Date: 2020-01-27 ; Times: 1
+	Date: 2020-01-26 ; Times: 3
+	Date: 2020-01-31 ; Times: 10
+	Date: 2020-01-30 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:egregius genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "family:Canidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "DERMOPTERA" ; Times: 2
+	Query: "family:Procyonidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "family:Felidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "locality:Corralito institutioncode:ROM" ; Times: 1
+	Query: "(dermoptera)" ; Times: 2
+	Query: "dermoptera" ; Times: 16
+	Query: "(DERMOPTERA)" ; Times: 3
+	Query: "puma concolor" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 2
+	Query: "order:dermoptera" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon" ; Times: 1
+	Query: "Dermoptera" ; Times: 6
+	Query: "genus:Morganucodon" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis" ; Times: 1
+	Query: "family:Cervidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;arkansas&#34;" ; Times: 1
+
+
+End of report.
