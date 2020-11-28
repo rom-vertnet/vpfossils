@@ -1,0 +1,74 @@
+Report for Institution Code ROM, Resource vpfossils
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 54
+Number of records retrieved in searches: 251
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 18
+	Country: Ireland ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-05 ; Times: 4
+	Date: 2020-06-08 ; Times: 15
+	Date: 2020-06-09 ; Times: 1
+	Date: 2020-06-06 ; Times: 1
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-04 ; Times: 3
+	Date: 2020-06-16 ; Times: 2
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-03 ; Times: 3
+	Date: 2020-06-10 ; Times: 10
+	Date: 2020-06-11 ; Times: 6
+	Date: 2020-06-12 ; Times: 1
+	Date: 2020-06-17 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:61239" ; Times: 1
+	Query: "catalognumber:55845" ; Times: 1
+	Query: "40410 institutioncode:ROM" ; Times: 1
+	Query: "Homo sapiens" ; Times: 18
+	Query: "genus:leopardus institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:53419" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "family:Ctenomyidae isfossil:1" ; Times: 1
+	Query: "catalognumber:25187" ; Times: 1
+	Query: "59011" ; Times: 1
+	Query: "Sirenia" ; Times: 1
+	Query: "family:Ctenomyidae country:&#34;Argentina&#34; isfossil:1" ; Times: 1
+	Query: "catalognumber:53248" ; Times: 1
+	Query: "catalognumber:57338" ; Times: 1
+	Query: "genus:Monachus" ; Times: 1
+	Query: "recordedby: william wood" ; Times: 1
+	Query: "catalognumber:41469" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 16
+	Query: "class:mammalia (10058)" ; Times: 2
+	Query: "mustela asia" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 474 download events in this period)
+Total number of records downloaded: 125
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-04 ; Times: 1
+	Date: 2020-06-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Florida" ; Times: 1
+	Query: "grizzly bear" ; Times: 1
+
+
+End of report.
