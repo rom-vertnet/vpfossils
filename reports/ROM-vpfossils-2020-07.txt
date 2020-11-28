@@ -1,0 +1,168 @@
+Report for Institution Code ROM, Resource vpfossils
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 100
+Number of records retrieved in searches: 531
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 69
+	Country: Peru ; Times: 5
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 7
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 4
+	Country: Argentina ; Times: 1
+	Country: Bolivia ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-08 ; Times: 2
+	Date: 2020-07-21 ; Times: 5
+	Date: 2020-07-20 ; Times: 32
+	Date: 2020-07-25 ; Times: 2
+	Date: 2020-07-24 ; Times: 2
+	Date: 2020-07-01 ; Times: 4
+	Date: 2020-07-03 ; Times: 6
+	Date: 2020-07-02 ; Times: 4
+	Date: 2020-07-07 ; Times: 2
+	Date: 2020-07-06 ; Times: 1
+	Date: 2020-07-29 ; Times: 3
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-12 ; Times: 6
+	Date: 2020-07-16 ; Times: 2
+	Date: 2020-07-11 ; Times: 9
+	Date: 2020-07-30 ; Times: 4
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-14 ; Times: 1
+	Date: 2020-07-17 ; Times: 4
+	Date: 2020-07-22 ; Times: 1
+	Date: 2020-07-28 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "58955" ; Times: 1
+	Query: "genus:Antilocapra" ; Times: 3
+	Query: "ziphius cavirostris" ; Times: 1
+	Query: "genus:Conacodon continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "ROM 32437" ; Times: 2
+	Query: "39186" ; Times: 1
+	Query: "ROM 32433" ; Times: 2
+	Query: "ROM 32431" ; Times: 4
+	Query: "Ziphius" ; Times: 1
+	Query: "catalognumber:37676" ; Times: 1
+	Query: "lutra lutra" ; Times: 5
+	Query: "ROM 35245" ; Times: 1
+	Query: "Ziphius cavirostris mappable:1" ; Times: 1
+	Query: "catalognumber:42833" ; Times: 2
+	Query: "ROM 32671" ; Times: 2
+	Query: "catalognumber:42836" ; Times: 1
+	Query: "Trichechus manatus mappable:1" ; Times: 1
+	Query: "genus:Homotherium" ; Times: 1
+	Query: "ROM 37861" ; Times: 2
+	Query: "ROM 41547" ; Times: 4
+	Query: "catalognumber:42842" ; Times: 1
+	Query: "ROM 39306" ; Times: 1
+	Query: "catalognumber:39441 institutioncode:ROM" ; Times: 3
+	Query: "ROM 37739" ; Times: 2
+	Query: "Lycalopex sechurae" ; Times: 2
+	Query: "ROM 37822" ; Times: 2
+	Query: "ROM 32428" ; Times: 4
+	Query: "catalognumber:42598 institutioncode:ROM" ; Times: 1
+	Query: "Jaguar" ; Times: 1
+	Query: "class:mammalia continent:africa year &gt;= 1924 year &lt;= 1924" ; Times: 1
+	Query: "catalognumber:31031 institutioncode:ROM" ; Times: 1
+	Query: "56042" ; Times: 1
+	Query: "genus:Panthera distance(location,geopoint(19.781754752564026,-115.96025528759438))&lt;4977167" ; Times: 1
+	Query: "ROM 32444" ; Times: 2
+	Query: "genus:Smilodon" ; Times: 1
+	Query: "ROM 31159" ; Times: 1
+	Query: "ROM 34118" ; Times: 2
+	Query: "ROM 32427" ; Times: 4
+	Query: "ROM 37534" ; Times: 2
+	Query: "ROM 35605" ; Times: 4
+	Query: "scientificname:Panthera onca " ; Times: 2
+	Query: "Panthera onca" ; Times: 2
+	Query: "45055" ; Times: 1
+	Query: "ROM 38104" ; Times: 2
+	Query: "genus:Homotherium distance(location,geopoint(5.063102863259693,-104.00713028759438))&lt;4433185" ; Times: 1
+	Query: "27947" ; Times: 1
+	Query: "37676" ; Times: 1
+	Query: "catalognumber:55271" ; Times: 1
+	Query: "panthera onca" ; Times: 5
+	Query: "ROM 34124" ; Times: 2
+	Query: "ROM 32195" ; Times: 4
+	Query: "specificepithet:arctos genus:Ursus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Ectoconus continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Conepatus institutioncode:ROM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 940 download events in this period)
+Total number of records downloaded: 13846
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: United States ; Times: 14
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-22 ; Times: 1
+	Date: 2020-07-18 ; Times: 2
+	Date: 2020-07-02 ; Times: 1
+	Date: 2020-07-16 ; Times: 1
+	Date: 2020-07-25 ; Times: 3
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-03 ; Times: 4
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-21 ; Times: 3
+	Date: 2020-07-06 ; Times: 1
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-15 ; Times: 1
+	Date: 2020-07-28 ; Times: 1
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "bat year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "class:Mammalia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "genus:Panthera distance(location,geopoint(5.063102863259693,-104.00713028759438))&lt;4433185" ; Times: 1
+	Query: "genus:Homotherium" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "genus:Smilodon" ; Times: 1
+	Query: "specificepithet:pinetorum genus:Microtus" ; Times: 1
+	Query: "Lycalopex sechurae" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "genus:Conacodon continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "genus:Puma" ; Times: 1
+	Query: "cetacea" ; Times: 1
+	Query: "family:felidae" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "class:Mammalia country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus" ; Times: 1
+	Query: "genus:Ectoconus continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Conepatus institutioncode:ROM" ; Times: 1
+	Query: "brazil mammalia bahia" ; Times: 1
+
+
+End of report.
