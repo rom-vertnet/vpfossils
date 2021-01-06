@@ -1,0 +1,124 @@
+Report for Institution Code ROM, Resource vpfossils
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 67
+Number of records retrieved in searches: 915
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 28
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Vietnam ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 10
+	Country: Spain ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-26 ; Times: 1
+	Date: 2020-12-30 ; Times: 1
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-04 ; Times: 3
+	Date: 2020-12-03 ; Times: 2
+	Date: 2020-12-22 ; Times: 2
+	Date: 2020-12-29 ; Times: 2
+	Date: 2020-12-06 ; Times: 6
+	Date: 2020-12-02 ; Times: 1
+	Date: 2020-12-18 ; Times: 3
+	Date: 2020-12-07 ; Times: 10
+	Date: 2020-12-09 ; Times: 1
+	Date: 2020-12-08 ; Times: 2
+	Date: 2020-12-10 ; Times: 3
+	Date: 2020-12-11 ; Times: 3
+	Date: 2020-12-05 ; Times: 3
+	Date: 2020-12-13 ; Times: 1
+	Date: 2020-12-14 ; Times: 11
+	Date: 2020-12-15 ; Times: 1
+	Date: 2020-12-01 ; Times: 5
+	Date: 2020-12-17 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:bellus genus:Dasypus county:&#34;Levy&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "catalognumber:35902 institutioncode:ROM" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "71718" ; Times: 1
+	Query: "ROM 39389" ; Times: 1
+	Query: "catalognumber:35899 institutioncode:ROM" ; Times: 1
+	Query: "Panthera onca radius" ; Times: 1
+	Query: "catalognumber:40151 institutioncode:ROM" ; Times: 2
+	Query: "specificepithet:bellus genus:Dasypus county:&#34;Sarasota&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:bellus genus:Dasypus county:&#34;Charlotte&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "catalognumber:39677 institutioncode:ROM" ; Times: 2
+	Query: "scientificname:Procyon lotor" ; Times: 8
+	Query: "genus:erethizon isfossil:1" ; Times: 2
+	Query: "ROM-51750" ; Times: 1
+	Query: "specificepithet:bellus genus:Dasypus" ; Times: 1
+	Query: "ROM 60093" ; Times: 1
+	Query: "Axis axis" ; Times: 1
+	Query: "55866" ; Times: 1
+	Query: "Equus caballus" ; Times: 1
+	Query: "catalognumber:43327 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:31031 institutioncode:ROM" ; Times: 3
+	Query: "Panthera onca" ; Times: 3
+	Query: "catalognumber:35898 institutioncode:ROM" ; Times: 1
+	Query: "ROM 35605" ; Times: 1
+	Query: "specificepithet:bellus genus:Dasypus county:&#34;Hernando&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "genus:Canis locality:rancho la brea institutioncode:ROM" ; Times: 1
+	Query: "Florida genus:Canis stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:bellus genus:Dasypus stateprovince:&#34;Florida&#34;" ; Times: 3
+	Query: "specificepithet:bellus genus:Dasypus stateprovince:&#34;Missouri&#34;" ; Times: 2
+	Query: "42634" ; Times: 1
+	Query: "ROM 11951" ; Times: 2
+	Query: "panthera onca" ; Times: 10
+	Query: "ROM 03474" ; Times: 1
+	Query: "scientificname:Panthera onca" ; Times: 5
+	Query: "41988" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 705 download events in this period)
+Total number of records downloaded: 719
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Romania ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-30 ; Times: 1
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-28 ; Times: 1
+	Date: 2020-12-09 ; Times: 1
+	Date: 2020-12-07 ; Times: 2
+	Date: 2020-12-11 ; Times: 1
+	Date: 2020-12-03 ; Times: 4
+	Date: 2020-12-02 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Lepus capensis" ; Times: 1
+	Query: "genus:Rangifer tarandus" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "genus:Martes specificepithet:americana*" ; Times: 1
+	Query: "crocuta" ; Times: 1
+	Query: "family:sciuridae" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "class:Mammalia country:Brazil" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;Sonora&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Odobenus rosmarus" ; Times: 1
+	Query: "class:Mammalia locality:Mojave Desert" ; Times: 1
+	Query: "genus:Lepus" ; Times: 1
+	Query: "hastissue:1" ; Times: 1
+
+
+End of report.
